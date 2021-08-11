@@ -1,0 +1,302 @@
+{
+  "epub": {
+    "metadata": {
+      "title": "Povídky z jedné kapsy",
+      "identifier": "7b5ad715-78ad-4f32-9029-6b59dd72c92c",
+      "author": "Karel Čapek",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-08-11T08:44:16.049Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_001.md",
+        "xhtml": "povidky_z_jedne_kapsy_001.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_002.md",
+        "xhtml": "povidky_z_jedne_kapsy_002.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_003.md",
+        "xhtml": "povidky_z_jedne_kapsy_003.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_004.md",
+        "xhtml": "povidky_z_jedne_kapsy_004.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_005.md",
+        "xhtml": "povidky_z_jedne_kapsy_005.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_006.md",
+        "xhtml": "povidky_z_jedne_kapsy_006.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_007.md",
+        "xhtml": "povidky_z_jedne_kapsy_007.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_008.md",
+        "xhtml": "povidky_z_jedne_kapsy_008.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_009.md",
+        "xhtml": "povidky_z_jedne_kapsy_009.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_010.md",
+        "xhtml": "povidky_z_jedne_kapsy_010.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_011.md",
+        "xhtml": "povidky_z_jedne_kapsy_011.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_012.md",
+        "xhtml": "povidky_z_jedne_kapsy_012.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_013.md",
+        "xhtml": "povidky_z_jedne_kapsy_013.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_014.md",
+        "xhtml": "povidky_z_jedne_kapsy_014.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_015.md",
+        "xhtml": "povidky_z_jedne_kapsy_015.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_016.md",
+        "xhtml": "povidky_z_jedne_kapsy_016.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_017.md",
+        "xhtml": "povidky_z_jedne_kapsy_017.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_018.md",
+        "xhtml": "povidky_z_jedne_kapsy_018.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_019.md",
+        "xhtml": "povidky_z_jedne_kapsy_019.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_020.md",
+        "xhtml": "povidky_z_jedne_kapsy_020.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_021.md",
+        "xhtml": "povidky_z_jedne_kapsy_021.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_022.md",
+        "xhtml": "povidky_z_jedne_kapsy_022.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_023.md",
+        "xhtml": "povidky_z_jedne_kapsy_023.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_024.md",
+        "xhtml": "povidky_z_jedne_kapsy_024.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_025.md",
+        "xhtml": "povidky_z_jedne_kapsy_025.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_026.md",
+        "xhtml": "povidky_z_jedne_kapsy_026.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_027.md",
+        "xhtml": "povidky_z_jedne_kapsy_027.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_028.md",
+        "xhtml": "povidky_z_jedne_kapsy_028.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_029.md",
+        "xhtml": "povidky_z_jedne_kapsy_029.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_030.md",
+        "xhtml": "povidky_z_jedne_kapsy_030.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_031.md",
+        "xhtml": "povidky_z_jedne_kapsy_031.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_032.md",
+        "xhtml": "povidky_z_jedne_kapsy_032.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_033.md",
+        "xhtml": "povidky_z_jedne_kapsy_033.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "povidky_z_jedne_kapsy_034.md",
+        "xhtml": "povidky_z_jedne_kapsy_034.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image003.png"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "calibre12",
+      "calibre13",
+      "calibre14",
+      "calibre15",
+      "calibre16",
+      "calibre17",
+      "calibre18",
+      "calibre20",
+      "calibre3",
+      "calibre5",
+      "calibre6",
+      "calibre7",
+      "calibre8",
+      "mlpdopis",
+      "mlpdopispodpis",
+      "mlpdopispodpisi",
+      "mlphvezdicky",
+      "mlplicencehypertext",
+      "mlplicenceobrazek",
+      "mlplicencetext",
+      "mlpobrazky",
+      "mlptext",
+      "mlptextbez1radku",
+      "mlptextbez1radku1",
+      "mlptextbez1radku2",
+      "mlptextbez1radkub",
+      "mlptextcapekseznam",
+      "mlptirazautoranazev",
+      "mlptitulkaautor",
+      "mlptitulkanazev",
+      "mlpuroven2kapitola",
+      "mlpznakkurziva11b",
+      "mlpznaktucne11b",
+      "msofootnotereference",
+      "msofootnotetext",
+      "msonormal",
+      "pcalibre",
+      "pcalibre1",
+      "wordsection",
+      "wordsection1",
+      "wordsection3",
+      "wordsection4",
+      "wordsection5",
+      "wordsection6"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "povidky-z-jedne-kapsy"
+    },
+    "generatedAt": 1628671456580
+  }
+}
