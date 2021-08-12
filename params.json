@@ -32,37 +32,45 @@
         "filename": "povidky_z_jedne_kapsy_001.md",
         "xhtml": "povidky_z_jedne_kapsy_001.html",
         "id": 0,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_002.md",
         "xhtml": "povidky_z_jedne_kapsy_002.html",
         "id": 1,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_003.md",
         "xhtml": "povidky_z_jedne_kapsy_003.html",
         "id": 2,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_004.md",
         "xhtml": "povidky_z_jedne_kapsy_004.html",
         "id": 3,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_005.md",
@@ -71,7 +79,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Předmluva",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_006.md",
@@ -80,7 +90,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Případ\nDr. Mejzlíka",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_007.md",
@@ -89,7 +101,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Modrá chryzantéma",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_008.md",
@@ -98,7 +112,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Věštkyně",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_009.md",
@@ -107,7 +123,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Jasnovidec",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_010.md",
@@ -116,7 +134,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Tajemství písma",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_011.md",
@@ -125,7 +145,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Naprostý důkaz",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_012.md",
@@ -134,7 +156,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Experiment profesora Rousse",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_013.md",
@@ -143,7 +167,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Ztracený dopis",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_014.md",
@@ -152,7 +178,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Ukradený spis 139/VII, odd. C",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_015.md",
@@ -161,7 +189,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Muž, který se nelíbil",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_016.md",
@@ -170,7 +200,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Básník",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_017.md",
@@ -179,7 +211,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Případy pana Janíka",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_018.md",
@@ -188,7 +222,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Pád rodu Votických",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_019.md",
@@ -197,7 +233,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Rekord",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_020.md",
@@ -206,7 +244,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Případ Selvinův",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_021.md",
@@ -215,7 +255,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Šlépěje",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_022.md",
@@ -224,7 +266,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Kupon",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_023.md",
@@ -233,7 +277,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Oplatkův konec",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_024.md",
@@ -242,7 +288,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Poslední soud",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_025.md",
@@ -251,7 +299,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Zločin v chalupě",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_026.md",
@@ -260,7 +310,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Zmizení herce Bendy",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_027.md",
@@ -269,7 +321,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Vražedný útok",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_028.md",
@@ -278,7 +332,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Propuštěný",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_029.md",
@@ -287,7 +343,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Zločin na poště",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_030.md",
@@ -296,7 +354,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Ediční poznámka",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_031.md",
@@ -305,7 +365,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Život\na doba spisovatele\nKarla Čapka v datech",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_032.md",
@@ -314,7 +376,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "První vydání knih Karla Čapka",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_033.md",
@@ -323,16 +387,20 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Poznámky pod čarou",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_jedne_kapsy_034.md",
         "xhtml": "povidky_z_jedne_kapsy_034.html",
         "id": 33,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "",
+        "subtitle": ""
       }
     ]
   },
@@ -342,7 +410,7 @@
       "identifier": "7b5ad715-78ad-4f32-9029-6b59dd72c92c",
       "author": "Karel Čapek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-08-12T06:39:26.865Z"
+      "modified": "2021-08-12T06:44:00.656Z"
     },
     "chapters": [
       {
@@ -634,6 +702,6 @@
       "user": "books-are-next",
       "repo": "povidky-z-jedne-kapsy"
     },
-    "generatedAt": 1628750367444
+    "generatedAt": 1628750641275
   }
 }
