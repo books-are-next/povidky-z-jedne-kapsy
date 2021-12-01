@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Povídky z jedné kapsy",
@@ -6,7 +7,9 @@
       "author": "Karel Čapek",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-08-11T08:44:16.049Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "mlpuroven2kapitola ",
@@ -32,7 +35,7 @@
         "filename": "povidky_z_jedne_kapsy_001.md",
         "xhtml": "povidky_z_jedne_kapsy_001.html",
         "id": 0,
-        "role": "break",
+        "role": "cover",
         "numberedChildren": false,
         "inToc": false,
         "children": [],
@@ -705,3 +708,4 @@
     "generatedAt": 1628750367444
   }
 }
+
