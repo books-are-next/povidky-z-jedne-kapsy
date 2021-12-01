@@ -1,7 +1,7 @@
 /* global self, caches, fetch */
 /* eslint-disable no-restricted-globals */
 
-const CACHE = 'cache-08aea77';
+const CACHE = 'cache-1af715c';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -39,7 +39,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./povidky_z_jedne_kapsy_001.html","./povidky_z_jedne_kapsy_002.html","./povidky_z_jedne_kapsy_006.html","./povidky_z_jedne_kapsy_007.html","./povidky_z_jedne_kapsy_005.html","./povidky_z_jedne_kapsy_008.html","./povidky_z_jedne_kapsy_009.html","./povidky_z_jedne_kapsy_010.html","./povidky_z_jedne_kapsy_011.html","./povidky_z_jedne_kapsy_012.html","./povidky_z_jedne_kapsy_013.html","./povidky_z_jedne_kapsy_014.html","./povidky_z_jedne_kapsy_015.html","./povidky_z_jedne_kapsy_017.html","./povidky_z_jedne_kapsy_016.html","./povidky_z_jedne_kapsy_018.html","./povidky_z_jedne_kapsy_019.html","./povidky_z_jedne_kapsy_020.html","./povidky_z_jedne_kapsy_021.html","./povidky_z_jedne_kapsy_022.html","./povidky_z_jedne_kapsy_023.html","./povidky_z_jedne_kapsy_024.html","./povidky_z_jedne_kapsy_025.html","./povidky_z_jedne_kapsy_027.html","./povidky_z_jedne_kapsy_026.html","./povidky_z_jedne_kapsy_028.html","./povidky_z_jedne_kapsy_029.html","./povidky_z_jedne_kapsy_030.html","./povidky_z_jedne_kapsy_031.html","./povidky_z_jedne_kapsy_032.html","./povidky_z_jedne_kapsy_033.html","./resources.html","./resources/image001.jpg","./resources/image003.png","./resources/image002.jpg","./resources/index.xml","./resources/obalka.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./favicon.png","./index.html","./colophon.html","./manifest.json","./povidky_z_jedne_kapsy_001.html","./povidky_z_jedne_kapsy_002.html","./povidky_z_jedne_kapsy_005.html","./povidky_z_jedne_kapsy_006.html","./povidky_z_jedne_kapsy_007.html","./povidky_z_jedne_kapsy_009.html","./povidky_z_jedne_kapsy_008.html","./povidky_z_jedne_kapsy_010.html","./povidky_z_jedne_kapsy_011.html","./povidky_z_jedne_kapsy_012.html","./povidky_z_jedne_kapsy_013.html","./povidky_z_jedne_kapsy_014.html","./povidky_z_jedne_kapsy_015.html","./povidky_z_jedne_kapsy_017.html","./povidky_z_jedne_kapsy_016.html","./povidky_z_jedne_kapsy_018.html","./povidky_z_jedne_kapsy_019.html","./povidky_z_jedne_kapsy_020.html","./povidky_z_jedne_kapsy_021.html","./povidky_z_jedne_kapsy_022.html","./povidky_z_jedne_kapsy_023.html","./povidky_z_jedne_kapsy_024.html","./povidky_z_jedne_kapsy_025.html","./povidky_z_jedne_kapsy_027.html","./povidky_z_jedne_kapsy_026.html","./povidky_z_jedne_kapsy_028.html","./povidky_z_jedne_kapsy_029.html","./povidky_z_jedne_kapsy_031.html","./povidky_z_jedne_kapsy_030.html","./povidky_z_jedne_kapsy_032.html","./resources.html","./povidky_z_jedne_kapsy_033.html","./resources/image001.jpg","./resources/image002.jpg","./resources/image003.png","./resources/index.xml","./resources/obalka.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css"]));
 }
 
 self.addEventListener('fetch', e => {
