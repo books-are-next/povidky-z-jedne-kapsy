@@ -1,0 +1,303 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Povídky z jedné kapsy",
+    "identifier": "7b5ad715-78ad-4f32-9029-6b59dd72c92c",
+    "author": "Karel Čapek",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2021-12-03T07:52:41.583Z",
+    "Sigil version": "0.9.6"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_001.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_002.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_003.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_004.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_005.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_006.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_007.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_008.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_009.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_010.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_011.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_012.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_013.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_014.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_015.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_016.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_017.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_018.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_019.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_020.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_021.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_022.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_023.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_024.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_025.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_026.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_027.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_028.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_029.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_030.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_031.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_032.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_033.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_034.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image003.png"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Předmluva",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_005.html"
+    },
+    {
+      "title": "Případ Dr. Mejzlíka",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_006.html"
+    },
+    {
+      "title": "Modrá chryzantéma",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_007.html"
+    },
+    {
+      "title": "Věštkyně",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_008.html"
+    },
+    {
+      "title": "Jasnovidec",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_009.html"
+    },
+    {
+      "title": "Tajemství písma",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_010.html"
+    },
+    {
+      "title": "Naprostý důkaz",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_011.html"
+    },
+    {
+      "title": "Experiment profesora Rousse",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_012.html"
+    },
+    {
+      "title": "Ztracený dopis",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_013.html"
+    },
+    {
+      "title": "Ukradený spis 139/VII, odd. C",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_014.html"
+    },
+    {
+      "title": "Muž, který se nelíbil",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_015.html"
+    },
+    {
+      "title": "Básník",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_016.html"
+    },
+    {
+      "title": "Případy pana Janíka",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_017.html"
+    },
+    {
+      "title": "Pád rodu Votických",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_018.html"
+    },
+    {
+      "title": "Rekord",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_019.html"
+    },
+    {
+      "title": "Případ Selvinův",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_020.html"
+    },
+    {
+      "title": "Šlépěje[9]",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_021.html"
+    },
+    {
+      "title": "Kupon",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_022.html"
+    },
+    {
+      "title": "Oplatkův konec",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_023.html"
+    },
+    {
+      "title": "Poslední soud",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_024.html"
+    },
+    {
+      "title": "Zločin v chalupě",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_025.html"
+    },
+    {
+      "title": "Zmizení herce Bendy",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_026.html"
+    },
+    {
+      "title": "Vražedný útok",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_027.html"
+    },
+    {
+      "title": "Propuštěný",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_028.html"
+    },
+    {
+      "title": "Zločin na poště",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_029.html"
+    },
+    {
+      "title": "Ediční poznámka",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_030.html"
+    },
+    {
+      "title": "Život a doba spisovatele Karla Čapka v datech",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_031.html"
+    },
+    {
+      "title": "První vydání knih Karla Čapka",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_032.html"
+    },
+    {
+      "title": "Poznámky pod čarou",
+      "href": "OEBPS/Text/povidky_z_jedne_kapsy_033.html"
+    }
+  ]
+}

@@ -1,109 +1,46 @@
 {
   "author": "Karel Čapek",
-  "identifier": "capek-povidky-z-jedne-kapsy-1af715c",
+  "edition": "beletrie",
+  "identifier": "capek-povidky-z-jedne-kapsy-0b5b62a",
   "languagecode": "cs",
   "modified": "2021-08-11T08:44:16.049Z",
   "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
   "title": "Povídky z jedné kapsy",
-  "revision": "1af715c",
+  "revision": "0b5b62a",
   "generatedAt": {
-    "date": "Wed Dec 01 2021 17:28:36 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638379716170
+    "date": "Fri Dec 03 2021 07:53:42 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638518022354
   },
   "documents": [
     {
-      "title": "",
-      "file": "colophon.html",
-      "words": 145,
-      "chars": 928,
-      "ideas": 24,
-      "role": "colophon",
-      "order": null,
-      "next": "povidky_z_jedne_kapsy_001.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "",
-          "id": "chunk1",
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "title: ''",
-              "id": "title-",
-              "children": []
-            },
-            {
-              "index": 2,
-              "level": 2,
-              "name": "title: ''",
-              "id": "title--1",
-              "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "",
-      "file": "index.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "index",
-      "order": null,
-      "next": "povidky_z_jedne_kapsy_001.html",
-      "toc": []
-    },
-    {
-      "title": "",
-      "file": "povidky_z_jedne_kapsy_001.html",
+      "title": "Povídky z jedné kapsy",
+      "file": "povidky_z_jedne_kapsy_002.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "povidky_z_jedne_kapsy_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "",
-          "id": "chunk1",
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "",
-      "file": "povidky_z_jedne_kapsy_002.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 1,
-      "prev": "povidky_z_jedne_kapsy_001.html",
       "next": "povidky_z_jedne_kapsy_005.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Předmluva",
+      "title": "Předmluva • Povídky z jedné kapsy",
       "file": "povidky_z_jedne_kapsy_005.html",
       "words": 141,
       "chars": 931,
       "ideas": 6,
       "role": "chapter",
-      "order": 2,
+      "order": 1,
       "prev": "povidky_z_jedne_kapsy_002.html",
       "next": "povidky_z_jedne_kapsy_006.html",
       "toc": [
@@ -111,19 +48,19 @@
           "index": 0,
           "level": 1,
           "name": "Předmluva",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Případ\nDr. Mejzlíka",
+      "title": "Případ\nDr. Mejzlíka • Povídky z jedné kapsy",
       "file": "povidky_z_jedne_kapsy_006.html",
       "words": 1204,
       "chars": 7049,
       "ideas": 45,
       "role": "chapter",
-      "order": 3,
+      "order": 2,
       "prev": "povidky_z_jedne_kapsy_005.html",
       "next": "povidky_z_jedne_kapsy_007.html",
       "toc": [
@@ -131,19 +68,19 @@
           "index": 0,
           "level": 1,
           "name": "Případ\nDr. Mejzlíka",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Modrá chryzantéma",
+      "title": "Modrá chryzantéma • Povídky z jedné kapsy",
       "file": "povidky_z_jedne_kapsy_007.html",
       "words": 1748,
       "chars": 9961,
       "ideas": 33,
       "role": "chapter",
-      "order": 4,
+      "order": 3,
       "prev": "povidky_z_jedne_kapsy_006.html",
       "next": "povidky_z_jedne_kapsy_008.html",
       "toc": [
@@ -151,19 +88,19 @@
           "index": 0,
           "level": 1,
           "name": "Modrá chryzantéma",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Věštkyně",
+      "title": "Věštkyně • Povídky z jedné kapsy",
       "file": "povidky_z_jedne_kapsy_008.html",
       "words": 1445,
       "chars": 8617,
       "ideas": 47,
       "role": "chapter",
-      "order": 5,
+      "order": 4,
       "prev": "povidky_z_jedne_kapsy_007.html",
       "next": "povidky_z_jedne_kapsy_009.html",
       "toc": [
@@ -171,19 +108,19 @@
           "index": 0,
           "level": 1,
           "name": "Věštkyně",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Jasnovidec",
+      "title": "Jasnovidec • Povídky z jedné kapsy",
       "file": "povidky_z_jedne_kapsy_009.html",
       "words": 1968,
       "chars": 11383,
       "ideas": 46,
       "role": "chapter",
-      "order": 6,
+      "order": 5,
       "prev": "povidky_z_jedne_kapsy_008.html",
       "next": "povidky_z_jedne_kapsy_010.html",
       "toc": [
@@ -191,19 +128,19 @@
           "index": 0,
           "level": 1,
           "name": "Jasnovidec",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Tajemství písma",
+      "title": "Tajemství písma • Povídky z jedné kapsy",
       "file": "povidky_z_jedne_kapsy_010.html",
       "words": 1959,
       "chars": 11502,
       "ideas": 48,
       "role": "chapter",
-      "order": 7,
+      "order": 6,
       "prev": "povidky_z_jedne_kapsy_009.html",
       "next": "povidky_z_jedne_kapsy_011.html",
       "toc": [
@@ -211,19 +148,19 @@
           "index": 0,
           "level": 1,
           "name": "Tajemství písma",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Naprostý důkaz",
+      "title": "Naprostý důkaz • Povídky z jedné kapsy",
       "file": "povidky_z_jedne_kapsy_011.html",
       "words": 1483,
       "chars": 8323,
       "ideas": 26,
       "role": "chapter",
-      "order": 8,
+      "order": 7,
       "prev": "povidky_z_jedne_kapsy_010.html",
       "next": "povidky_z_jedne_kapsy_012.html",
       "toc": [
@@ -231,19 +168,19 @@
           "index": 0,
           "level": 1,
           "name": "Naprostý důkaz",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Experiment profesora Rousse",
+      "title": "Experiment profesora Rousse • Povídky z jedné kapsy",
       "file": "povidky_z_jedne_kapsy_012.html",
       "words": 1652,
       "chars": 10275,
       "ideas": 119,
       "role": "chapter",
-      "order": 9,
+      "order": 8,
       "prev": "povidky_z_jedne_kapsy_011.html",
       "next": "povidky_z_jedne_kapsy_013.html",
       "toc": [
@@ -251,19 +188,19 @@
           "index": 0,
           "level": 1,
           "name": "Experiment profesora Rousse",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ztracený dopis",
+      "title": "Ztracený dopis • Povídky z jedné kapsy",
       "file": "povidky_z_jedne_kapsy_013.html",
       "words": 1882,
       "chars": 10975,
       "ideas": 50,
       "role": "chapter",
-      "order": 10,
+      "order": 9,
       "prev": "povidky_z_jedne_kapsy_012.html",
       "next": "povidky_z_jedne_kapsy_014.html",
       "toc": [
@@ -271,19 +208,19 @@
           "index": 0,
           "level": 1,
           "name": "Ztracený dopis",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ukradený spis 139/VII, odd. C",
+      "title": "Ukradený spis 139/VII, odd. C • Povídky z jedné kapsy",
       "file": "povidky_z_jedne_kapsy_014.html",
       "words": 2190,
       "chars": 12863,
       "ideas": 79,
       "role": "chapter",
-      "order": 11,
+      "order": 10,
       "prev": "povidky_z_jedne_kapsy_013.html",
       "next": "povidky_z_jedne_kapsy_015.html",
       "toc": [
@@ -291,19 +228,19 @@
           "index": 0,
           "level": 1,
           "name": "Ukradený spis 139/VII, odd. C",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Muž, který se nelíbil",
+      "title": "Muž, který se nelíbil • Povídky z jedné kapsy",
       "file": "povidky_z_jedne_kapsy_015.html",
       "words": 1465,
       "chars": 8271,
       "ideas": 53,
       "role": "chapter",
-      "order": 12,
+      "order": 11,
       "prev": "povidky_z_jedne_kapsy_014.html",
       "next": "povidky_z_jedne_kapsy_016.html",
       "toc": [
@@ -311,19 +248,19 @@
           "index": 0,
           "level": 1,
           "name": "Muž, který se nelíbil",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Básník",
+      "title": "Básník • Povídky z jedné kapsy",
       "file": "povidky_z_jedne_kapsy_016.html",
-      "words": 1577,
+      "words": 1576,
       "chars": 9251,
-      "ideas": 90,
+      "ideas": 89,
       "role": "chapter",
-      "order": 13,
+      "order": 12,
       "prev": "povidky_z_jedne_kapsy_015.html",
       "next": "povidky_z_jedne_kapsy_017.html",
       "toc": [
@@ -331,19 +268,19 @@
           "index": 0,
           "level": 1,
           "name": "Básník",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Případy pana Janíka",
+      "title": "Případy pana Janíka • Povídky z jedné kapsy",
       "file": "povidky_z_jedne_kapsy_017.html",
       "words": 2555,
       "chars": 14688,
       "ideas": 66,
       "role": "chapter",
-      "order": 14,
+      "order": 13,
       "prev": "povidky_z_jedne_kapsy_016.html",
       "next": "povidky_z_jedne_kapsy_018.html",
       "toc": [
@@ -351,19 +288,19 @@
           "index": 0,
           "level": 1,
           "name": "Případy pana Janíka",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Pád rodu Votických",
+      "title": "Pád rodu Votických • Povídky z jedné kapsy",
       "file": "povidky_z_jedne_kapsy_018.html",
       "words": 2488,
       "chars": 15046,
       "ideas": 78,
       "role": "chapter",
-      "order": 15,
+      "order": 14,
       "prev": "povidky_z_jedne_kapsy_017.html",
       "next": "povidky_z_jedne_kapsy_019.html",
       "toc": [
@@ -371,19 +308,19 @@
           "index": 0,
           "level": 1,
           "name": "Pád rodu Votických",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Rekord",
+      "title": "Rekord • Povídky z jedné kapsy",
       "file": "povidky_z_jedne_kapsy_019.html",
       "words": 2160,
       "chars": 12258,
       "ideas": 45,
       "role": "chapter",
-      "order": 16,
+      "order": 15,
       "prev": "povidky_z_jedne_kapsy_018.html",
       "next": "povidky_z_jedne_kapsy_020.html",
       "toc": [
@@ -391,19 +328,19 @@
           "index": 0,
           "level": 1,
           "name": "Rekord",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Případ Selvinův",
+      "title": "Případ Selvinův • Povídky z jedné kapsy",
       "file": "povidky_z_jedne_kapsy_020.html",
       "words": 2207,
       "chars": 12983,
       "ideas": 28,
       "role": "chapter",
-      "order": 17,
+      "order": 16,
       "prev": "povidky_z_jedne_kapsy_019.html",
       "next": "povidky_z_jedne_kapsy_021.html",
       "toc": [
@@ -411,19 +348,19 @@
           "index": 0,
           "level": 1,
           "name": "Případ Selvinův",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Šlépěje[9]",
+      "title": "Šlépěje[9] • Povídky z jedné kapsy",
       "file": "povidky_z_jedne_kapsy_021.html",
       "words": 2349,
       "chars": 13643,
       "ideas": 49,
       "role": "chapter",
-      "order": 18,
+      "order": 17,
       "prev": "povidky_z_jedne_kapsy_020.html",
       "next": "povidky_z_jedne_kapsy_022.html",
       "toc": [
@@ -431,19 +368,19 @@
           "index": 0,
           "level": 1,
           "name": "Šlépěje[9]",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kupon",
+      "title": "Kupon • Povídky z jedné kapsy",
       "file": "povidky_z_jedne_kapsy_022.html",
       "words": 2579,
       "chars": 14497,
       "ideas": 39,
       "role": "chapter",
-      "order": 19,
+      "order": 18,
       "prev": "povidky_z_jedne_kapsy_021.html",
       "next": "povidky_z_jedne_kapsy_023.html",
       "toc": [
@@ -451,19 +388,19 @@
           "index": 0,
           "level": 1,
           "name": "Kupon",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Oplatkův konec",
+      "title": "Oplatkův konec • Povídky z jedné kapsy",
       "file": "povidky_z_jedne_kapsy_023.html",
       "words": 2363,
       "chars": 13966,
       "ideas": 23,
       "role": "chapter",
-      "order": 20,
+      "order": 19,
       "prev": "povidky_z_jedne_kapsy_022.html",
       "next": "povidky_z_jedne_kapsy_024.html",
       "toc": [
@@ -471,19 +408,19 @@
           "index": 0,
           "level": 1,
           "name": "Oplatkův konec",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Poslední soud",
+      "title": "Poslední soud • Povídky z jedné kapsy",
       "file": "povidky_z_jedne_kapsy_024.html",
       "words": 1262,
       "chars": 7644,
       "ideas": 50,
       "role": "chapter",
-      "order": 21,
+      "order": 20,
       "prev": "povidky_z_jedne_kapsy_023.html",
       "next": "povidky_z_jedne_kapsy_025.html",
       "toc": [
@@ -491,19 +428,19 @@
           "index": 0,
           "level": 1,
           "name": "Poslední soud",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Zločin v chalupě",
+      "title": "Zločin v chalupě • Povídky z jedné kapsy",
       "file": "povidky_z_jedne_kapsy_025.html",
       "words": 1248,
       "chars": 7115,
       "ideas": 67,
       "role": "chapter",
-      "order": 22,
+      "order": 21,
       "prev": "povidky_z_jedne_kapsy_024.html",
       "next": "povidky_z_jedne_kapsy_026.html",
       "toc": [
@@ -511,19 +448,19 @@
           "index": 0,
           "level": 1,
           "name": "Zločin v chalupě",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Zmizení herce Bendy",
+      "title": "Zmizení herce Bendy • Povídky z jedné kapsy",
       "file": "povidky_z_jedne_kapsy_026.html",
       "words": 3267,
       "chars": 19298,
       "ideas": 78,
       "role": "chapter",
-      "order": 23,
+      "order": 22,
       "prev": "povidky_z_jedne_kapsy_025.html",
       "next": "povidky_z_jedne_kapsy_027.html",
       "toc": [
@@ -531,19 +468,19 @@
           "index": 0,
           "level": 1,
           "name": "Zmizení herce Bendy",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Vražedný útok",
+      "title": "Vražedný útok • Povídky z jedné kapsy",
       "file": "povidky_z_jedne_kapsy_027.html",
       "words": 1665,
       "chars": 9081,
       "ideas": 29,
       "role": "chapter",
-      "order": 24,
+      "order": 23,
       "prev": "povidky_z_jedne_kapsy_026.html",
       "next": "povidky_z_jedne_kapsy_028.html",
       "toc": [
@@ -551,19 +488,19 @@
           "index": 0,
           "level": 1,
           "name": "Vražedný útok",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Propuštěný",
+      "title": "Propuštěný • Povídky z jedné kapsy",
       "file": "povidky_z_jedne_kapsy_028.html",
       "words": 1592,
       "chars": 9066,
       "ideas": 31,
       "role": "chapter",
-      "order": 25,
+      "order": 24,
       "prev": "povidky_z_jedne_kapsy_027.html",
       "next": "povidky_z_jedne_kapsy_029.html",
       "toc": [
@@ -571,19 +508,19 @@
           "index": 0,
           "level": 1,
           "name": "Propuštěný",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Zločin na poště",
+      "title": "Zločin na poště • Povídky z jedné kapsy",
       "file": "povidky_z_jedne_kapsy_029.html",
       "words": 2225,
       "chars": 12243,
       "ideas": 54,
       "role": "chapter",
-      "order": 26,
+      "order": 25,
       "prev": "povidky_z_jedne_kapsy_028.html",
       "next": "povidky_z_jedne_kapsy_030.html",
       "toc": [
@@ -591,19 +528,19 @@
           "index": 0,
           "level": 1,
           "name": "Zločin na poště",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ediční poznámka",
+      "title": "Ediční poznámka • Povídky z jedné kapsy",
       "file": "povidky_z_jedne_kapsy_030.html",
       "words": 77,
       "chars": 606,
       "ideas": 4,
       "role": "chapter",
-      "order": 27,
+      "order": 26,
       "prev": "povidky_z_jedne_kapsy_029.html",
       "next": "povidky_z_jedne_kapsy_031.html",
       "toc": [
@@ -611,19 +548,19 @@
           "index": 0,
           "level": 1,
           "name": "Ediční poznámka",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Život\na doba spisovatele\nKarla Čapka v datech",
+      "title": "Život\na doba spisovatele\nKarla Čapka v datech • Povídky z jedné kapsy",
       "file": "povidky_z_jedne_kapsy_031.html",
       "words": 293,
       "chars": 2024,
       "ideas": 33,
       "role": "chapter",
-      "order": 28,
+      "order": 27,
       "prev": "povidky_z_jedne_kapsy_030.html",
       "next": "povidky_z_jedne_kapsy_032.html",
       "toc": [
@@ -631,19 +568,19 @@
           "index": 0,
           "level": 1,
           "name": "Život\na doba spisovatele\nKarla Čapka v datech",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "První vydání knih Karla Čapka",
+      "title": "První vydání knih Karla Čapka • Povídky z jedné kapsy",
       "file": "povidky_z_jedne_kapsy_032.html",
       "words": 233,
       "chars": 1155,
       "ideas": 67,
       "role": "chapter",
-      "order": 29,
+      "order": 28,
       "prev": "povidky_z_jedne_kapsy_031.html",
       "next": "povidky_z_jedne_kapsy_033.html",
       "toc": [
@@ -651,53 +588,62 @@
           "index": 0,
           "level": 1,
           "name": "První vydání knih Karla Čapka",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Poznámky pod čarou",
+      "title": "Poznámky pod čarou • Povídky z jedné kapsy",
       "file": "povidky_z_jedne_kapsy_033.html",
       "words": 158,
       "chars": 995,
       "ideas": 18,
       "role": "chapter",
-      "order": 30,
+      "order": 29,
       "prev": "povidky_z_jedne_kapsy_032.html",
-      "next": null,
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Poznámky pod čarou",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "",
-      "file": "resources.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "other",
+      "title": "Tiráž • Povídky z jedné kapsy",
+      "file": "colophon.html",
+      "words": 142,
+      "chars": 915,
+      "ideas": 23,
+      "role": "colophon",
       "order": null,
-      "next": "povidky_z_jedne_kapsy_001.html",
-      "toc": []
+      "prev": "povidky_z_jedne_kapsy_033.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
     }
   ],
   "totals": {
     "all": {
-      "words": 47580,
-      "chars": 276637,
-      "ideas": 1425
+      "words": 47584,
+      "chars": 276667,
+      "ideas": 1427
     },
     "chapters": {
-      "words": 47435,
+      "words": 47434,
       "chars": 275709,
-      "ideas": 1401
+      "ideas": 1400
     }
   }
 }
