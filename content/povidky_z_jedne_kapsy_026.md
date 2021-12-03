@@ -6,7 +6,7 @@ Druhého září zmizel herec Benda, mistr Jan Benda, jak se mu říkalo od té 
 
 Paní Marešová (totiž ta posluhovačka) se nepodivila příliš ani tomu; prosím vás, tihle herci, to vám je jako cikáni; kdopak ví, kam zas jel hrát nebo flámovat. Ale desátého září se strhla po herci Bendovi sháňka; měl přijít do divadla, kde se začínaly zkoušky na Krále Leara; když Benda nepřišel ani na třetí zkoušku, vzbudilo to přece jen nepokoj a z divadla telefonovali doktoru Goldbergovi, Bendovu příteli, neví-li, co se děje s Bendou.
 
-Ten doktor Goldberg byl chirurg a vydělával ukrutné peníze na slepých střevech; to už je taková židovská specialita. Jinak to byl tlustý člověk s tlustými zlatými brýlemi a tlustým zlatým srdcem; hořel pro umění, měl byt od podlahy po strop ověšený samými obrazy a oddaně miloval herce Bendu, který k němu choval přátelské opovržení a s jistou blahosklonností mu dovoloval, aby za něj platil; což, mezi námi, nebyla zrovna maličkost. Tragická maska Bendova a zářící obličej doktora Goldberga (který pil jenom vodu), to už patřilo k sobě při všech těch sardanapalských[\[12\]](../Text/povidky_z_jedne_kapsy_033.html#_ftn12) flámech a divokých výtržnostech, které byly druhou stránkou proslulosti velkého mima.
+Ten doktor Goldberg byl chirurg a vydělával ukrutné peníze na slepých střevech; to už je taková židovská specialita. Jinak to byl tlustý člověk s tlustými zlatými brýlemi a tlustým zlatým srdcem; hořel pro umění, měl byt od podlahy po strop ověšený samými obrazy a oddaně miloval herce Bendu, který k němu choval přátelské opovržení a s jistou blahosklonností mu dovoloval, aby za něj platil; což, mezi námi, nebyla zrovna maličkost. Tragická maska Bendova a zářící obličej doktora Goldberga (který pil jenom vodu), to už patřilo k sobě při všech těch sardanapalských[\[12\]](./resources/undefined) flámech a divokých výtržnostech, které byly druhou stránkou proslulosti velkého mima.
 
 Tedy tomu doktoru Goldbergovi telefonovali z divadla, co prý se děje s Bendou. Odpověděl, že nemá ponětí, ale že se po něm podívá; co neřekl, bylo, že už ho sám po celý týden shání po všech nočních lokálech a výletních hotelech s rostoucím znepokojením; měl tísnivou předtuchu, že se něco Bendovi stalo. To bylo totiž tak: Doktor Goldberg byl, pokud mohl zjistit, poslední, kdo Jana Bendu viděl. Někdy koncem srpna s ním ještě podnikl triumfální tažení noční Prahou; ale pak už Benda nepřišel na žádnou obvyklou schůzku. Snad stůně, řekl si konečně doktor Goldberg, a zajel si jednou večer do Bendova bytu; bylo to právě prvního září. Zvonil u dveří; nikdo nešel otevřít, ale uvnitř bylo slyšet nějaký šramot. Tu drnčel doktor dobrých pět minut na zvonek; najednou zazněly kroky a dveře se otevřely; stál v nich Benda zahalený v županu, a doktor Goldberg se ho zděsil: tak zdivočele vypadal slavný herec s rozcuchanými a slepenými vlasy a vousy dobrý týden neholenými; zdál se přepadlý a špinavý. „A, to jste vy,“ řekl nevlídně, „co chcete?“
 
@@ -32,7 +32,7 @@ Doktor Goldberg vypadal velmi povážlivě. „Matko,“ řekl, „když jste ta
 
 Doktor Goldberg to ovšem věděl tak málo jako ona; a s nejpochmurnějšími starostmi se obrátil tentokrát už na policii.
 
-„Nu dobře,“ řekl policejní úředník, když mu dr. Goldberg vyklopil všechno, co věděl, „budeme pátrat. Ale podle toho, co jste povídal, že byl po celý týden zamčen doma, neholený a nemytý, válel se na pohovce, chlastal koňak a pak se ztratil nahý jako ašant[\[13\]](../Text/povidky_z_jedne_kapsy_033.html#_ftn13), to by, pane, koukalo, hm, na nějaké –“
+„Nu dobře,“ řekl policejní úředník, když mu dr. Goldberg vyklopil všechno, co věděl, „budeme pátrat. Ale podle toho, co jste povídal, že byl po celý týden zamčen doma, neholený a nemytý, válel se na pohovce, chlastal koňak a pak se ztratil nahý jako ašant[\[13\]](./resources/undefined), to by, pane, koukalo, hm, na nějaké –“
 
 „– delirium,“ vyhrkl doktor Goldberg.
 
@@ -44,7 +44,7 @@ Doktor Goldberg to ovšem věděl tak málo jako ona; a s nejpochmurnějšími s
 
 „Ne,“ řekl honem doktor; on sice Jan Benda měl dluhů jako kvítí, ale nebral je nikdy tragicky.
 
-„Nebo… řekněme nějaký osobní skandál… nešťastnou lásku, nebo lues[\[14\]](../Text/povidky_z_jedne_kapsy_033.html#_ftn14), nebo vůbec nějakou větší starost?“
+„Nebo… řekněme nějaký osobní skandál… nešťastnou lásku, nebo lues[\[14\]](./resources/undefined), nebo vůbec nějakou větší starost?“
 
 „Pokud vím, nic,“ mínil doktor Goldberg váhavě; na jednu nebo dvě věci si přitom vzpomněl, ale spolkl je, – ostatně to všecko stěží mělo co dělat s nepochopitelným zmizením herce Bendy. Nicméně když se vracel z policie domů – to se rozumí, policie učiní, co je v její moci –, převaloval v hlavě, co věděl o Bendovi po téhle stránce. Nebylo toho mnoho:
 
@@ -62,7 +62,7 @@ Jednou kvečeru potkal doktor Goldberg starého herce Lebdušku; a jak se tak za
 
 Doktoru Goldbergovi působilo melancholickou rozkoš naslouchat tomu hereckému nekrologu na Jana Bendu.
 
-„To byl důkladný hráč, pane,“ vzdychl Lebduška. „Jak vám sekýroval divadelního krejčího! Já vám nebudu hrát krále, křičel, když mně dáte na kabát takové šófl[\[15\]](../Text/povidky_z_jedne_kapsy_033.html#_ftn15) krajky! To on nesnesl na sobě žádný divadelní švindl. Když měl hrát Othella, tak vám proběhal všechny starožitnické krámy, až našel takový starý renesanční prsten; a ten musel mít na prstě, když hrál Othella. On říkal, že se mu líp hraje, když má na sobě něco pravého. To ani nebyla hra, to bylo zrovna… převtělení,“ řekl Lebduška nejistě, nevěda, užil-li pravého slova. „A když hrál, byl vždycky v pauzách sprostý jako polír a zamykal se ve své šatně, aby ho nikdo nevytrhoval z toho stavu. Proto on tolik pil, že mu to šlo na nervy,“ mínil Lebduška zamyšleně. „Já jdu tadyhle do kina, pane,“ řekl na rozloučenou.
+„To byl důkladný hráč, pane,“ vzdychl Lebduška. „Jak vám sekýroval divadelního krejčího! Já vám nebudu hrát krále, křičel, když mně dáte na kabát takové šófl[\[15\]](./resources/undefined) krajky! To on nesnesl na sobě žádný divadelní švindl. Když měl hrát Othella, tak vám proběhal všechny starožitnické krámy, až našel takový starý renesanční prsten; a ten musel mít na prstě, když hrál Othella. On říkal, že se mu líp hraje, když má na sobě něco pravého. To ani nebyla hra, to bylo zrovna… převtělení,“ řekl Lebduška nejistě, nevěda, užil-li pravého slova. „A když hrál, byl vždycky v pauzách sprostý jako polír a zamykal se ve své šatně, aby ho nikdo nevytrhoval z toho stavu. Proto on tolik pil, že mu to šlo na nervy,“ mínil Lebduška zamyšleně. „Já jdu tadyhle do kina, pane,“ řekl na rozloučenou.
 
 „Já půjdu s vámi,“ navrhl doktor Goldberg, nevěda, jak by utloukl večer. Dávali tam nějaký námořnický film, ale doktor Goldberg ani dobře nevěděl, oč jde; skoro se slzami v očích poslouchal, jak starý Lebduška žvatlá o Janu Bendovi.
 

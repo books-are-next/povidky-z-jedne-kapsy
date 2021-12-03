@@ -1,15 +1,15 @@
 ---
-title: ''
+title: Tiráž
 ---
+
+***
 
 Povídky z jedné kapsy
 
 Karel Čapek
 
 
----
-title: ''
----
+***
 
 Znění tohoto textu vychází z díla [Povídky z jedné kapsy](https://search.mlp.cz/cz/titul/povidky-z-jedne-a-z-druhe-kapsy/42054/) tak, jak bylo vydáno v Praze nakladatelstvím Český spisovatel v roce 1993. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
@@ -31,12 +31,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 19. 1. 2018.
 
-![](./resources/image003.png)
+![](../Images/image003.png)
 
 
----
-title: ''
----
+***
 
 **Karel Čapek**
 

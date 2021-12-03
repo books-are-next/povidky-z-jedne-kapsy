@@ -36,7 +36,7 @@ Záruba bezradně pokrčil rameny. „Na Pankráci,“ vypravil ze sebe. „V sa
 
 \* \* \*
 
-Ono to sice nemá byt, ale stalo se to: tři právníci se radili, jak z toho dostat toho Zárubu ven, předseda senátu, státní návladní a advokát ex offo[\[16\]](../Text/povidky_z_jedne_kapsy_033.html#_ftn16).
+Ono to sice nemá byt, ale stalo se to: tři právníci se radili, jak z toho dostat toho Zárubu ven, předseda senátu, státní návladní a advokát ex offo[\[16\]](./resources/undefined).
 
 „Tak ať to ten Záruba zapře,“ mínil státní návladní.
 
