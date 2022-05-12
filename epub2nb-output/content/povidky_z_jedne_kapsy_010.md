@@ -1,5 +1,6 @@
 ---
 title: Tajemství písma
+contentType: prose
 ---
 
 „Rubnere,“ řekl šéfredaktor, „půjdete se podívat na toho grafologa Jensena, má dnes večer produkci pro zástupce tisku; prý to má být něco epochálního, ten Jensen. Pak o tom napíšete patnáct řádek.“

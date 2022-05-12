@@ -1,5 +1,6 @@
 ---
-title: Ukradený spis 139/VII, odd. C
+title: Ukradený spis 139/VII, odd\. C
+contentType: prose
 ---
 
 Ve tři hodiny ráno zařinčel telefon na posádkovém velitelství: „Tady plukovník Hampl z generálního štábu. Pošlete ke mně ihned dva muže vojenské policie; a vzkažte pro podplukovníka Vrzala, no ovšem že z informačního oddělení, člověče, po tom vám nic není, aby ke mně hned přišel. Ano, teď v noci. Ano, ať si vezme auto. Tak honem, hergot!“ A dost.

@@ -1,7 +1,6 @@
 ---
-title: |-
-  Případ
-  Dr. Mejzlíka
+title: Případ Dr\. Mejzlíka
+contentType: prose
 ---
 
 „Poslyšte, pane Dastychu,“ řekl zamyšleně policejní úředník dr. Mejzlík starému kouzelníkovi, „já k vám jdu vlastně na poradu. Já mám tuhle jeden případ, se kterým si nevím rady.“

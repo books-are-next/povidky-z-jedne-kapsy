@@ -1,21 +1,56 @@
 {
-  "author": "Karel Čapek",
-  "edition": "beletrie",
-  "identifier": "capek-povidky-z-jedne-kapsy-0b5b62a",
-  "languagecode": "cs",
-  "modified": "2021-08-11T08:44:16.049Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Povídky z jedné kapsy",
-  "revision": "0b5b62a",
+  "author": "Karel Čapek",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "capek-povidky-z-jedne-kapsy-8c00380",
+  "revision": "8c00380",
+  "readingOrder": [
+    "promo.html",
+    "povidky_z_jedne_kapsy_005.html",
+    "povidky_z_jedne_kapsy_006.html",
+    "povidky_z_jedne_kapsy_007.html",
+    "povidky_z_jedne_kapsy_008.html",
+    "povidky_z_jedne_kapsy_009.html",
+    "povidky_z_jedne_kapsy_010.html",
+    "povidky_z_jedne_kapsy_011.html",
+    "povidky_z_jedne_kapsy_012.html",
+    "povidky_z_jedne_kapsy_013.html",
+    "povidky_z_jedne_kapsy_014.html",
+    "povidky_z_jedne_kapsy_015.html",
+    "povidky_z_jedne_kapsy_016.html",
+    "povidky_z_jedne_kapsy_017.html",
+    "povidky_z_jedne_kapsy_018.html",
+    "povidky_z_jedne_kapsy_019.html",
+    "povidky_z_jedne_kapsy_020.html",
+    "povidky_z_jedne_kapsy_021.html",
+    "povidky_z_jedne_kapsy_022.html",
+    "povidky_z_jedne_kapsy_023.html",
+    "povidky_z_jedne_kapsy_024.html",
+    "povidky_z_jedne_kapsy_025.html",
+    "povidky_z_jedne_kapsy_026.html",
+    "povidky_z_jedne_kapsy_027.html",
+    "povidky_z_jedne_kapsy_028.html",
+    "povidky_z_jedne_kapsy_029.html",
+    "povidky_z_jedne_kapsy_030.html",
+    "povidky_z_jedne_kapsy_031.html",
+    "povidky_z_jedne_kapsy_032.html",
+    "povidky_z_jedne_kapsy_033.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Fri Dec 03 2021 07:53:42 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638518022354
+    "date": "Thu May 12 2022 10:35:42 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351742029
   },
   "documents": [
     {
-      "title": "Povídky z jedné kapsy",
-      "file": "povidky_z_jedne_kapsy_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,25 +58,17 @@
       "order": 0,
       "prev": null,
       "next": "povidky_z_jedne_kapsy_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Předmluva • Povídky z jedné kapsy",
+      "title": "Předmluva",
       "file": "povidky_z_jedne_kapsy_005.html",
       "words": 141,
       "chars": 931,
       "ideas": 6,
       "role": "chapter",
       "order": 1,
-      "prev": "povidky_z_jedne_kapsy_002.html",
+      "prev": "promo.html",
       "next": "povidky_z_jedne_kapsy_006.html",
       "toc": [
         {
@@ -54,11 +81,11 @@
       ]
     },
     {
-      "title": "Případ\nDr. Mejzlíka • Povídky z jedné kapsy",
+      "title": "Případ Dr. Mejzlíka",
       "file": "povidky_z_jedne_kapsy_006.html",
       "words": 1204,
-      "chars": 7049,
-      "ideas": 45,
+      "chars": 7050,
+      "ideas": 44,
       "role": "chapter",
       "order": 2,
       "prev": "povidky_z_jedne_kapsy_005.html",
@@ -67,14 +94,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Případ\nDr. Mejzlíka",
+          "name": "Případ Dr. Mejzlíka",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Modrá chryzantéma • Povídky z jedné kapsy",
+      "title": "Modrá chryzantéma",
       "file": "povidky_z_jedne_kapsy_007.html",
       "words": 1748,
       "chars": 9961,
@@ -94,7 +121,7 @@
       ]
     },
     {
-      "title": "Věštkyně • Povídky z jedné kapsy",
+      "title": "Věštkyně",
       "file": "povidky_z_jedne_kapsy_008.html",
       "words": 1445,
       "chars": 8617,
@@ -114,7 +141,7 @@
       ]
     },
     {
-      "title": "Jasnovidec • Povídky z jedné kapsy",
+      "title": "Jasnovidec",
       "file": "povidky_z_jedne_kapsy_009.html",
       "words": 1968,
       "chars": 11383,
@@ -134,7 +161,7 @@
       ]
     },
     {
-      "title": "Tajemství písma • Povídky z jedné kapsy",
+      "title": "Tajemství písma",
       "file": "povidky_z_jedne_kapsy_010.html",
       "words": 1959,
       "chars": 11502,
@@ -154,7 +181,7 @@
       ]
     },
     {
-      "title": "Naprostý důkaz • Povídky z jedné kapsy",
+      "title": "Naprostý důkaz",
       "file": "povidky_z_jedne_kapsy_011.html",
       "words": 1483,
       "chars": 8323,
@@ -174,7 +201,7 @@
       ]
     },
     {
-      "title": "Experiment profesora Rousse • Povídky z jedné kapsy",
+      "title": "Experiment profesora Rousse",
       "file": "povidky_z_jedne_kapsy_012.html",
       "words": 1652,
       "chars": 10275,
@@ -194,7 +221,7 @@
       ]
     },
     {
-      "title": "Ztracený dopis • Povídky z jedné kapsy",
+      "title": "Ztracený dopis",
       "file": "povidky_z_jedne_kapsy_013.html",
       "words": 1882,
       "chars": 10975,
@@ -214,7 +241,7 @@
       ]
     },
     {
-      "title": "Ukradený spis 139/VII, odd. C • Povídky z jedné kapsy",
+      "title": "Ukradený spis 139/VII, odd. C",
       "file": "povidky_z_jedne_kapsy_014.html",
       "words": 2190,
       "chars": 12863,
@@ -234,7 +261,7 @@
       ]
     },
     {
-      "title": "Muž, který se nelíbil • Povídky z jedné kapsy",
+      "title": "Muž, který se nelíbil",
       "file": "povidky_z_jedne_kapsy_015.html",
       "words": 1465,
       "chars": 8271,
@@ -254,7 +281,7 @@
       ]
     },
     {
-      "title": "Básník • Povídky z jedné kapsy",
+      "title": "Básník",
       "file": "povidky_z_jedne_kapsy_016.html",
       "words": 1576,
       "chars": 9251,
@@ -274,7 +301,7 @@
       ]
     },
     {
-      "title": "Případy pana Janíka • Povídky z jedné kapsy",
+      "title": "Případy pana Janíka",
       "file": "povidky_z_jedne_kapsy_017.html",
       "words": 2555,
       "chars": 14688,
@@ -294,7 +321,7 @@
       ]
     },
     {
-      "title": "Pád rodu Votických • Povídky z jedné kapsy",
+      "title": "Pád rodu Votických",
       "file": "povidky_z_jedne_kapsy_018.html",
       "words": 2488,
       "chars": 15046,
@@ -314,7 +341,7 @@
       ]
     },
     {
-      "title": "Rekord • Povídky z jedné kapsy",
+      "title": "Rekord",
       "file": "povidky_z_jedne_kapsy_019.html",
       "words": 2160,
       "chars": 12258,
@@ -334,7 +361,7 @@
       ]
     },
     {
-      "title": "Případ Selvinův • Povídky z jedné kapsy",
+      "title": "Případ Selvinův",
       "file": "povidky_z_jedne_kapsy_020.html",
       "words": 2207,
       "chars": 12983,
@@ -354,7 +381,7 @@
       ]
     },
     {
-      "title": "Šlépěje[9] • Povídky z jedné kapsy",
+      "title": "Šlépěje[9]",
       "file": "povidky_z_jedne_kapsy_021.html",
       "words": 2349,
       "chars": 13643,
@@ -374,7 +401,7 @@
       ]
     },
     {
-      "title": "Kupon • Povídky z jedné kapsy",
+      "title": "Kupon",
       "file": "povidky_z_jedne_kapsy_022.html",
       "words": 2579,
       "chars": 14497,
@@ -394,7 +421,7 @@
       ]
     },
     {
-      "title": "Oplatkův konec • Povídky z jedné kapsy",
+      "title": "Oplatkův konec",
       "file": "povidky_z_jedne_kapsy_023.html",
       "words": 2363,
       "chars": 13966,
@@ -414,7 +441,7 @@
       ]
     },
     {
-      "title": "Poslední soud • Povídky z jedné kapsy",
+      "title": "Poslední soud",
       "file": "povidky_z_jedne_kapsy_024.html",
       "words": 1262,
       "chars": 7644,
@@ -434,7 +461,7 @@
       ]
     },
     {
-      "title": "Zločin v chalupě • Povídky z jedné kapsy",
+      "title": "Zločin v chalupě",
       "file": "povidky_z_jedne_kapsy_025.html",
       "words": 1248,
       "chars": 7115,
@@ -454,7 +481,7 @@
       ]
     },
     {
-      "title": "Zmizení herce Bendy • Povídky z jedné kapsy",
+      "title": "Zmizení herce Bendy",
       "file": "povidky_z_jedne_kapsy_026.html",
       "words": 3267,
       "chars": 19298,
@@ -474,7 +501,7 @@
       ]
     },
     {
-      "title": "Vražedný útok • Povídky z jedné kapsy",
+      "title": "Vražedný útok",
       "file": "povidky_z_jedne_kapsy_027.html",
       "words": 1665,
       "chars": 9081,
@@ -494,7 +521,7 @@
       ]
     },
     {
-      "title": "Propuštěný • Povídky z jedné kapsy",
+      "title": "Propuštěný",
       "file": "povidky_z_jedne_kapsy_028.html",
       "words": 1592,
       "chars": 9066,
@@ -514,7 +541,7 @@
       ]
     },
     {
-      "title": "Zločin na poště • Povídky z jedné kapsy",
+      "title": "Zločin na poště",
       "file": "povidky_z_jedne_kapsy_029.html",
       "words": 2225,
       "chars": 12243,
@@ -534,7 +561,7 @@
       ]
     },
     {
-      "title": "Ediční poznámka • Povídky z jedné kapsy",
+      "title": "Ediční poznámka",
       "file": "povidky_z_jedne_kapsy_030.html",
       "words": 77,
       "chars": 606,
@@ -554,11 +581,11 @@
       ]
     },
     {
-      "title": "Život\na doba spisovatele\nKarla Čapka v datech • Povídky z jedné kapsy",
+      "title": "Život a doba spisovatele Karla Čapka v datech",
       "file": "povidky_z_jedne_kapsy_031.html",
       "words": 293,
-      "chars": 2024,
-      "ideas": 33,
+      "chars": 2026,
+      "ideas": 31,
       "role": "chapter",
       "order": 27,
       "prev": "povidky_z_jedne_kapsy_030.html",
@@ -567,14 +594,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Život\na doba spisovatele\nKarla Čapka v datech",
+          "name": "Život a doba spisovatele Karla Čapka v datech",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "První vydání knih Karla Čapka • Povídky z jedné kapsy",
+      "title": "První vydání knih Karla Čapka",
       "file": "povidky_z_jedne_kapsy_032.html",
       "words": 233,
       "chars": 1155,
@@ -594,7 +621,7 @@
       ]
     },
     {
-      "title": "Poznámky pod čarou • Povídky z jedné kapsy",
+      "title": "Poznámky pod čarou",
       "file": "povidky_z_jedne_kapsy_033.html",
       "words": 158,
       "chars": 995,
@@ -614,11 +641,11 @@
       ]
     },
     {
-      "title": "Tiráž • Povídky z jedné kapsy",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 142,
-      "chars": 915,
-      "ideas": 23,
+      "words": 111,
+      "chars": 719,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "povidky_z_jedne_kapsy_033.html",
@@ -636,14 +663,14 @@
   ],
   "totals": {
     "all": {
-      "words": 47584,
-      "chars": 276667,
-      "ideas": 1427
+      "words": 47553,
+      "chars": 276474,
+      "ideas": 1415
     },
     "chapters": {
       "words": 47434,
-      "chars": 275709,
-      "ideas": 1400
+      "chars": 275712,
+      "ideas": 1397
     }
   }
 }

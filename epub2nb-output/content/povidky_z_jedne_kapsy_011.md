@@ -1,5 +1,6 @@
 ---
 title: Naprostý důkaz
+contentType: prose
 ---
 
 „Víš, Toníku,“ povídal vyšetřující soudce Mates svému nejbližšímu příteli, „to je věc zkušenosti; já nevěřím žádným výmluvám, žádnému alibi a žádnému povídání; já nevěřím obviněnému ani svědkům. Člověk lže, i když ani nechce; tak třeba takový svědek ti přísahá, že proti obviněnému nechová žádné nepřátelství, a přitom sám neví, že ho v hloubi duše, víš, v podvědomí nenávidí z nějaké té potlačené nenávisti nebo žárlivosti. Všecko, co ti vypovídá obviněný, je předem vymyšlené a narafičené; všecko, co ti vypovídá svědek, se může řídit vědomým nebo i nevědomým úmyslem obviněnému pomáhat nebo přitížit. Holenku, to já znám: člověk je naskrz prolhaná potvora.

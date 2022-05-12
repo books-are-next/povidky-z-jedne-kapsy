@@ -1,5 +1,6 @@
 ---
 title: Experiment profesora Rousse
+contentType: prose
 ---
 
 Přítomni byli zvláště: ministr vnitra, ministr spravedlnosti, policejní prezident, řada poslanců, několik vysokých úředníků, vynikající právníci, přední učenci a ovšem i zástupci tisku; neboť ti musejí být při všem.

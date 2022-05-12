@@ -1,5 +1,6 @@
 ---
 title: Případ Selvinův
+contentType: prose
 ---
 
 „Hm, můj největší úspěch, totiž úspěch, který mně udělal největší radost –,“ vzpomínal starý mistr Leonard Unden, veliký básník, laureát Nobelovy ceny a tak dále. „Mladí přátelé, v mém věku už člověk nedá na ty vavříny, ovace, milenky a jiné takové nesmysly, jmenovitě když už jsou dávno tytam. Pokud je člověk mlád, těší se ze všeho, a byl by osel, kdyby to nedělal; jenže dokud je mlád, nemá na to, aby se z něčeho těšil. Vlastně by měl život postupovat obráceně; nejdřív by měl být člověk stár a dělat plnou a záslužnou práci, protože se k jinému nehodí; teprve nakonec by měl dospět mladosti, aby užíval plodů svého dlouhého života. Tak vidíte starce, už se zapovídal. O čem jsem to chtěl mluvit? Aha, co byl můj největší úspěch. Poslouchejte, to nebylo žádné z mých dramat a žádná z mých knížek – ačkoliv byl čas, kdy se mé knížky opravdu četly; můj největší úspěch byl případ Selvinův.

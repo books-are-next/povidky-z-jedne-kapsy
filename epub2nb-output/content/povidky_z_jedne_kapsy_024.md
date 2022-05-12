@@ -1,5 +1,6 @@
 ---
 title: Poslední soud
+contentType: prose
 ---
 
 Pověstný, mnohonásobný, několika zatykači a celou armádou četníků i detektivů stíhaný vrah Kugler prohlásil, že ho nedostanou, a také ho nedostali, aspoň živého ne. Poslední, vcelku devátý jeho vražedný kousek byl, že zastřelil četníka, který ho chtěl zatknout. Četníka sice skolil, ale sám dostal sedm kulí, z nichž tři byly naprosto smrtelné. Tím zdánlivě unikl pozemské spravedlnosti.

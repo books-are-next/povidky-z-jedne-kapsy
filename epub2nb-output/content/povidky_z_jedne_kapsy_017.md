@@ -1,5 +1,6 @@
 ---
 title: Případy pana Janíka
+contentType: prose
 ---
 
 Ten pan Janík není ani dr. Janík z ministerstva, ani ten Janík, co zastřelil statkáře Jirsu, ani ten senzál Janík, o kterém se říká, že udělal sérii tří set dvaceti šesti karambolů, nýbrž pan Janík, šéf firmy Janík a Holeček, velkoobchod s papírem a celulózou; on je to takový slušný a trochu menší pán, co kdysi chodil za slečnou Severovou a pak už se z desperace[\[2\]](./resources/undefined) neoženil; zkrátka takřečený papírník Janík, aby nebylo mýlky.

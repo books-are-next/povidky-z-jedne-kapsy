@@ -1,5 +1,6 @@
 ---
 title: Kupon
+contentType: prose
 ---
 
 Toho horkého srpnového večera bylo na Střeleckém ostrově plno lidí; a tak Mince a Pepovi nezbylo, než aby si sedli ke stolu, kde už seděl nějaký pán s tlustým a smutným knírem. „S dovolením,“ řekl Pepa a ten pán jenom tak pokývl. (Ten protiva, řekla si Minka, zrovna u našeho stolu musí sedět!) První věc tedy byla, že si Minka s gestem vévodkyně sedla na židli, kterou jí Pepa utřel kapesníkem; druhá, bezprostředně následující, byla ta, že honem vytáhla pudřenku a pudrovala si nos, aby se jí proboha v tom horku snad trochu neleskl; a přitom, jak tu pudřenku vyjímala, vypadl jí z taštičky zmuchlaný lístek. Tu se ten pán s knírem shýbl a zvedl ten maličký lístek. „Schovejte si to, slečno,“ řekl zasmušile.

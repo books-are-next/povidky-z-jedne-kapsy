@@ -1,5 +1,6 @@
 ---
 title: Básník
+contentType: prose
 ---
 
 Byla to běžná policejní událost: ve čtyři hodiny ráno přejelo auto v Žitné ulici opilou stařenu a v největší rychlosti ujelo. A teď měl mladý policejní koncipient dr. Mejzlík vyšetřit, které auto to bylo. Takový mladý koncipient to bere vážně.

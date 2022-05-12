@@ -1,5 +1,6 @@
 ---
 title: Šlépěje[9]
+contentType: prose
 ---
 
 Pan Rybka se té noci ubíral domů ve zvláště dobré míře, předně proto, že vyhrál svou partii šachu (to byl pěkný mat koněm, liboval si cestou), a za druhé proto, že napadal čerstvý sníh a měkce mu chrupal pod nohama v tom pěkném a čistém tichu. Bože, to je krása, mínil pan Rybka; město pod sněhem, to je najednou docela malé město, takové starosvětské městečko – člověk by skoro věřil v ponocné a v dostavníky; to je zvláštní, jak sníh vypadá starodávně a venkovsky.

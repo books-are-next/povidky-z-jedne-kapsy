@@ -1,5 +1,6 @@
 ---
 title: Oplatkův konec
+contentType: prose
 ---
 
 K třetí hodině ráno shledal civilní strážník Krejčík, že v pekařském krámu v Neklanově ulici, čp. 17, je napolo vyzdvižen závěs. Zazvonil tedy na domovníka, a třebaže neměl službu, nahlédl pod závěs, není-li snad někdo v krámě. V tom okamžiku vyrazil z krámu člověk, na půl kroku střelil Krejčíka do břicha a dal se na útěk.

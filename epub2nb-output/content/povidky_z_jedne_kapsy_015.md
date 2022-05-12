@@ -1,5 +1,6 @@
 ---
 title: Muž, který se nelíbil
+contentType: prose
 ---
 
 „Pane Kolda,“ řekl pan Pacovský strážmistrovi Koldovi, „já mám něco pro vás.“ Pan Pacovský býval totiž za Rakouska policajtem, dokonce u jízdní stráže; ale po válce se nějak nemohl vpravit do nových poměrů, šel do penze, ohlédl se drobet po světě a konečně si najal hostinec Na vyhlídce; je to sic trochu samota, ale dnes to začínají mít lidé rádi, tyhle výlety, vyhlídky, koupání v rybníce a takové ty věci. „Pane Kolda,“ řekl tedy pan Pacovský, „já do toho nevidím. Já tam mám jednoho hosta, už čtrnáct dní, nějaký Roedl to je. Copak o to, on platí slušně, nechlastá ani nehraje, ale… Víte co,“ vyhrkl pan Pacovský, „přijďte se někdy na něj podívat.“

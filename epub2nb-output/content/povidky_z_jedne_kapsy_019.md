@@ -1,5 +1,6 @@
 ---
 title: Rekord
+contentType: prose
 ---
 
 „Pane okresní,“ hlásil četník Hejda okresnímu soudci Tučkovi, „tak tu mám jedno těžké ublížení na těle. Himl, to je horko!“

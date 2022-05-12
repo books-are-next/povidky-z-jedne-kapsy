@@ -45,7 +45,7 @@
         "filename": "povidky_z_jedne_kapsy_002.md",
         "xhtml": "povidky_z_jedne_kapsy_002.html",
         "id": 1,
-        "role": "break",
+        "role": "promo",
         "numberedChildren": false,
         "inToc": false,
         "children": [],
@@ -412,7 +412,7 @@
       "identifier": "7b5ad715-78ad-4f32-9029-6b59dd72c92c",
       "author": "Karel Čapek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-03T07:52:41.583Z"
+      "modified": "2017-10-24T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -446,7 +446,7 @@
         "xhtml": "povidky_z_jedne_kapsy_005.html"
       },
       {
-        "titleSuggest": "Případ\nDr. Mejzlíka",
+        "titleSuggest": "Případ Dr\\. Mejzlíka",
         "subtitleSuggest": "",
         "filename": "povidky_z_jedne_kapsy_006.md",
         "xhtml": "povidky_z_jedne_kapsy_006.html"
@@ -494,7 +494,7 @@
         "xhtml": "povidky_z_jedne_kapsy_013.html"
       },
       {
-        "titleSuggest": "Ukradený spis 139/VII, odd. C",
+        "titleSuggest": "Ukradený spis 139/VII, odd\\. C",
         "subtitleSuggest": "",
         "filename": "povidky_z_jedne_kapsy_014.md",
         "xhtml": "povidky_z_jedne_kapsy_014.html"
@@ -596,7 +596,7 @@
         "xhtml": "povidky_z_jedne_kapsy_030.html"
       },
       {
-        "titleSuggest": "Život\na doba spisovatele\nKarla Čapka v datech",
+        "titleSuggest": "Život a doba spisovatele Karla Čapka v datech",
         "subtitleSuggest": "",
         "filename": "povidky_z_jedne_kapsy_031.md",
         "xhtml": "povidky_z_jedne_kapsy_031.html"
@@ -704,6 +704,6 @@
       "user": "books-are-next",
       "repo": "povidky-z-jedne-kapsy"
     },
-    "generatedAt": 1638517962123
+    "generatedAt": 1652351285382
   }
 }
