@@ -1,5 +1,6 @@
 ---
 title: Pád rodu Votických
+contentType: prose
 ---
 
 Jednoho dne přišel do kanceláře policejního úředníka dr. Mejzlíka takový pomenší člověk se zlatými brejlemi a ustaranou tváří. „Archivář Divíšek,“ zamumlal. „Pane doktore, já k vám jdu na poradu… jako k vynikajícímu kriminalistovi; mně totiž řekli, že vy račte být… jaksi… zvláště pokud jde o složitější případy – Totiž to je neobyčejně záhadný případ,“ prohlásil důtklivě.

@@ -1,5 +1,6 @@
 ---
 title: Zločin v chalupě
+contentType: prose
 ---
 
 „Vstaňte, obžalovaný,“ pravil předseda soudu. „Tedy žaloba vás viní, že jste zavraždil svého tchána Františka Lebedu; při vyšetřování jste doznal, že jste ho třikrát uhodil sekerou do hlavy v úmyslu zabít ho. Tak co, cítíte se vinen?“

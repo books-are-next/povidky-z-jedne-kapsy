@@ -1,5 +1,6 @@
 ---
 title: Věštkyně
+contentType: prose
 ---
 
 Každý znalec poměrů nahlédne, že tento příběh se nemohl stát u nás ani ve Francii ani v Německu, neboť v těchto zemích, jak známo, soudcové jsou povinni soudit a trestat hříšníky podle litery zákona, a nikoliv podle svého rozšafného rozumu a svědomí. Protože v této historii vystupuje soudce, který vynáší svůj rozsudek nehledě na paragrafy, nýbrž na zdravý lidský rozum, plyne z toho, že se následující událost nemohla stát jinde nežli v Anglii; a sice stala se v Londýně, přesněji řečeno v Kensingtonu; nebo počkejte, bylo to v Bromptonu nebo v Bayswateru, zkrátka tam někde. Ten soudce byl Master Justice Kelley, a ta žena se jmenovala zcela prostě Myersová. Mistress Edith Myersová.

@@ -1,5 +1,6 @@
 ---
 title: Ztracený dopis
+contentType: prose
 ---
 
 „Boženko,“ řekl pan ministr své choti, nabíraje si důkladnou dávku salátu, „dnes odpoledne jsem dostal dopis, to tě bude zajímat. Musím to předložit ministerské radě. Kdyby to vyšlo ven, byla by jedna politická strana v pořádné bryndě. Na, podívej se na to,“ děl pan ministr, sahaje nejprve do levé náprsní kapsy a potom do pravé. „Počkej, kampak jsem to,“ bručel pan ministr, hmataje znovu do levé náprsní kapsy; načež položil vidličku a začal hrabat oběma rukama ve všech ostatních kapsách. Pozorný divák by přitom shledal, že takový ministr má stejně překvapující počet kapes na všemožných částech a stranách těla jako každý jiný řádný muž; že v nich má klíče, tužky, notesy, večerníky, tobolky, úřední lejstra, hodinky, párátko, nůž, hřeben, staré dopisy, kapesník, sirky, staré vstupenky do kina, plnicí péro a četné jiné předměty denní potřeby; a že hrabaje se v kapsách mumlá „kampak jsem to dal“, „to jsem blázen“, „počkejme“, tak jako by činil každý jiný lidský tvor, hrabající se ve svých vlastních kapsách. Ale ministrova choť nevěnovala mnoho pozornosti tomuto ději, nýbrž řekla, jako by to učinila každá jiná paní: „Prosím tě, kdybys raději jedl; vystydne ti to.“

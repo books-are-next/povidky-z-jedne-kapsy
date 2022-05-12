@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Povídky z jedné kapsy
@@ -12,7 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - povidky_z_jedne_kapsy_002.html
+  - promo.html
   - povidky_z_jedne_kapsy_005.html
   - povidky_z_jedne_kapsy_006.html
   - povidky_z_jedne_kapsy_007.html

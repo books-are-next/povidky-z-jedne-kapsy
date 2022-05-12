@@ -1,5 +1,6 @@
 ---
 title: Vražedný útok
+contentType: prose
 ---
 
 Pan rada Tomsa si toho večera zrovna lebedil se sluchátky na uších a s libým úsměvem poslouchal, jak mu rádio pěkně hraje Dvořákovy tance – to přece je muzika, říkal si spokojeně –, když to najednou venku dvakrát zatřesklo a z okna nad jeho hlavou se s řinkotem sypalo sklo; pan Tomsa totiž seděl v přízemním pokoji.

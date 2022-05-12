@@ -1,5 +1,6 @@
 ---
 title: Zločin na poště
+contentType: prose
 ---
 
 „Pane, Spravedlnost,“ řekl četnický strážmistr Brejcha. „To bych rád věděl, proč to je na obrazech taková ženská s kšandou na očích a s vážkami, jako by prodávala pepř. Já bych mínil, že Spravedlnost vypadá jako četník. To byste nevěřil, co věcí my četníci rozsoudíme bez soudce, bez vážek a bez takových cavyků. V menších případech dáme po hubě a ve větších případech si odepneme řemen; to je v devadesáti případech ze sta celá spravedlnost. A já vám povím, pane, že tuhle jsem já sám usvědčil dva lidi z vraždy a sám jsem je odsoudil k spravedlivému trestu a trest jsem vykonal, a nikomu jsem o tom nehlásil ani slovo. Tak počkejte, vám to teda řeknu.

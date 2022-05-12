@@ -1,5 +1,6 @@
 ---
 title: Zmizení herce Bendy
+contentType: prose
 ---
 
 Druhého září zmizel herec Benda, mistr Jan Benda, jak se mu říkalo od té doby, co jediným rozběhem vystoupil na jednu z nejvyšších příčlí herecké slávy. Totiž druhého září se nestalo docela nic; posluhovačka, která v devět hodin ráno přišla poklidit Bendův byt, našla zválenou postel a celý ten kančí nepořádek, který obyčejně Bendu obklopoval, jenom pan mistr nebyl doma; ale jelikož na tom nebylo nic neobvyklého, dala byt svým sumárním způsobem do pořádku a šla zase po svém. Dobrá. Ale od té doby nebylo po herci Bendovi ani památky.

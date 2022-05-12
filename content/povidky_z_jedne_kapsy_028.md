@@ -1,5 +1,6 @@
 ---
 title: Propuštěný
+contentType: prose
 ---
 
 „Tak co, rozuměl jste, Zárubo?“ ptal se ředitel věznice, když téměř slavnostně dočetl příslušný akt od ministerstva spravedlnosti. „To znamená, že se vám podmínečně promíjí zbytek vašeho doživotního trestu. Odseděl jste si dvanáct a půl roku a po tu celou dobu jste se choval… no, zkrátka, vzorně; my jsme vám dali nejlepší vysvědčení a… eh… jedním slovem, můžete jít domů, rozumíte? Ale pamatujte si, Zárubo, kdybyste něco provedl, tak to podmínečné propuštění pomine a vy si budete muset odsedět ten doživotní trest za vraždu na své manželce Marii, a pak už vám ani Pámbu nepomůže. Tak si dejte pozor, Zárubo; příště by to bylo nadosmrti.“ Pan ředitel se dojatě vysmrkal. „My jsme vás tu měli rádi, Zárubo, ale podruhé bych vás tu nechtěl vidět. Tak spánembohem, a pan správce vám vyplatí vaše peníze. Můžete jít.“
