@@ -3,6 +3,8 @@ title: Rekord
 contentType: prose
 ---
 
+<section>
+
 „Pane okresní,“ hlásil četník Hejda okresnímu soudci Tučkovi, „tak tu mám jedno těžké ublížení na těle. Himl, to je horko!“
 
 „Jen si, člověče, udělejte pohodlí,“ radil mu pan sudí.
@@ -90,3 +92,5 @@ Nyní stál mladý obr, jak ho pánbůh stvořil, a třásl se; nejspíš se bá
 „Odveďte ho,“ zařval okresní soudce. „Zatracený švindléř!“
 
 Za chvilku vstrčil ještě jednou hlavu do dveří četník Hejda. „Pane okresní,“ řekl mstivě, „takhle mu dát ještě poškození cizího majetku; víte, on vytáhl kámen z té hráze, a teď je ta hráz celá rozebraná.“
+
+</section>

@@ -3,6 +3,8 @@ title: Ukradený spis 139/VII, odd\. C
 contentType: prose
 ---
 
+<section>
+
 Ve tři hodiny ráno zařinčel telefon na posádkovém velitelství: „Tady plukovník Hampl z generálního štábu. Pošlete ke mně ihned dva muže vojenské policie; a vzkažte pro podplukovníka Vrzala, no ovšem že z informačního oddělení, člověče, po tom vám nic není, aby ke mně hned přišel. Ano, teď v noci. Ano, ať si vezme auto. Tak honem, hergot!“ A dost.
 
 Za hodinu byl podplukovník Vrzal na místě; bylo to až bůhvíkde ve vilové čtvrti. Přivítal ho starší a hrozně ustaraný pán v civilu, to jest jenom v košili a kalhotách. „Podplukovníku, mně se stala sakramentská věc. Sedni si, kamaráde. Zatracená věc mizerná svinská pitomá neřádná. Potvora jedna zlořečená. Tak si to představ: Předevčírem mně dá šéf generálního štábu jeden spis a povídá: Hample, zpracuj to doma; čím míň lidí o tom ví, tím líp – v kanceláři ani muk; tak marš, máš dovolenou a seď na tom doma, ale pozor! No dobrá.“
@@ -158,3 +160,5 @@ Plukovník mu vytrhl z ruky drahocenný, pomačkaný spis číslo 139/VII, odd. 
 Pan Pištora překvapením a dojetím zvážněl. „Ale to nebylo třeba,“ řekl strkaje honem ruku s bankovkou do kapsy. „To přece nic nebylo – Tak já děkuju uctivě, pane; a kdybyste někdy zas potřebovali –“
 
 „Dal jsem mu totiž padesát korun,“ řekl pan plukovník Hampl své ženě blahovolně. „Dvacet korun by pro takového tulipána taky stačilo, ale –“ Pan plukovník mávl velkomyslně rukou. „Jen když se ten zatracený spis našel.“
+
+</section>

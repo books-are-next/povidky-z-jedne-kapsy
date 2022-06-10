@@ -3,6 +3,8 @@ title: Propuštěný
 contentType: prose
 ---
 
+<section>
+
 „Tak co, rozuměl jste, Zárubo?“ ptal se ředitel věznice, když téměř slavnostně dočetl příslušný akt od ministerstva spravedlnosti. „To znamená, že se vám podmínečně promíjí zbytek vašeho doživotního trestu. Odseděl jste si dvanáct a půl roku a po tu celou dobu jste se choval… no, zkrátka, vzorně; my jsme vám dali nejlepší vysvědčení a… eh… jedním slovem, můžete jít domů, rozumíte? Ale pamatujte si, Zárubo, kdybyste něco provedl, tak to podmínečné propuštění pomine a vy si budete muset odsedět ten doživotní trest za vraždu na své manželce Marii, a pak už vám ani Pámbu nepomůže. Tak si dejte pozor, Zárubo; příště by to bylo nadosmrti.“ Pan ředitel se dojatě vysmrkal. „My jsme vás tu měli rádi, Zárubo, ale podruhé bych vás tu nechtěl vidět. Tak spánembohem, a pan správce vám vyplatí vaše peníze. Můžete jít.“
 
 Záruba, čahoun skoro dvoumetrový, přešlapoval a něco koktal; byl tak šťasten, že ho to až bolelo a že v něm hrkalo cosi jako zavzlykání.
@@ -62,3 +64,5 @@ Ono to sice nemá byt, ale stalo se to: tři právníci se radili, jak z toho do
 Ale k líčení ani nedošlo. Té noci se Antonín Záruba oběsil, patrně ze strachu před trestem. Protože byl příliš dlouhý, visel tak divně, jako by seděl na zemi.
 
 „Zatrápená věc,“ bručel státní návladní, „hergot, to je hloupá věc. Ale aspoň že my za to nemůžeme.“
+
+</section>

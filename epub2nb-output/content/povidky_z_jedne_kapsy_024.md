@@ -3,6 +3,8 @@ title: Poslední soud
 contentType: prose
 ---
 
+<section>
+
 Pověstný, mnohonásobný, několika zatykači a celou armádou četníků i detektivů stíhaný vrah Kugler prohlásil, že ho nedostanou, a také ho nedostali, aspoň živého ne. Poslední, vcelku devátý jeho vražedný kousek byl, že zastřelil četníka, který ho chtěl zatknout. Četníka sice skolil, ale sám dostal sedm kulí, z nichž tři byly naprosto smrtelné. Tím zdánlivě unikl pozemské spravedlnosti.
 
 Jeho smrt přišla tak rychle, že ani neměl času pocítit obzvláštní bolest. Když jeho duše opustila tělo, mohla užasnout nad podivnostmi onoho světa, světa mimo prostor, šerého a nekonečně pustého, ale neužasla. Člověk, který byl v žaláři i v Americe, považuje onen svět prostě za nové prostředí, v němž se s trochou statečnosti protluče jako kdekoliv jinde.
@@ -100,3 +102,5 @@ Kugler si hryzl prsty. „Myslil jsem… totiž, nestaral jsem se o to, ale… �
 „Protože člověk patří člověku. Já jsem, jak vidíš, jenom svědek; ale o trestu, víš, o trestu rozhodují lidé – i na nebi. Věř mi, Kuglere, je to v pořádku; lidé si nezasluhují jiné spravedlnosti než lidské.“
 
 V té chvíli vrátil se soud od porady a předseda Posledního Senátu přednesl silným hlasem: „Kugler Ferdinand odsuzuje se pro devětkrát opakovaný zločin vraždy úkladné, zabití a loupeže, pro přečin revertence[\[11\]](./resources/undefined), pro neoprávněné nošení zbraně a pro krádež růží k doživotnímu trestu pekla. Trest nastoupí ihned. Prosím, nyní další případ. Je tu obžalovaný Machát František?“
+
+</section>

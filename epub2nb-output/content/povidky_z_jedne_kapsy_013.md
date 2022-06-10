@@ -3,6 +3,8 @@ title: Ztracený dopis
 contentType: prose
 ---
 
+<section>
+
 „Boženko,“ řekl pan ministr své choti, nabíraje si důkladnou dávku salátu, „dnes odpoledne jsem dostal dopis, to tě bude zajímat. Musím to předložit ministerské radě. Kdyby to vyšlo ven, byla by jedna politická strana v pořádné bryndě. Na, podívej se na to,“ děl pan ministr, sahaje nejprve do levé náprsní kapsy a potom do pravé. „Počkej, kampak jsem to,“ bručel pan ministr, hmataje znovu do levé náprsní kapsy; načež položil vidličku a začal hrabat oběma rukama ve všech ostatních kapsách. Pozorný divák by přitom shledal, že takový ministr má stejně překvapující počet kapes na všemožných částech a stranách těla jako každý jiný řádný muž; že v nich má klíče, tužky, notesy, večerníky, tobolky, úřední lejstra, hodinky, párátko, nůž, hřeben, staré dopisy, kapesník, sirky, staré vstupenky do kina, plnicí péro a četné jiné předměty denní potřeby; a že hrabaje se v kapsách mumlá „kampak jsem to dal“, „to jsem blázen“, „počkejme“, tak jako by činil každý jiný lidský tvor, hrabající se ve svých vlastních kapsách. Ale ministrova choť nevěnovala mnoho pozornosti tomuto ději, nýbrž řekla, jako by to učinila každá jiná paní: „Prosím tě, kdybys raději jedl; vystydne ti to.“
 
 „Dobrá,“ pravil pan ministr, dávaje veškerý obsah svých kapes zpátky do příslušných míst, „nejspíš jsem to nechal na stole v pracovně; tam jsem ten dopis četl. Tak představ si,“ spustil bujaře a nabral si kus pečeně, „představ si, že mně někdo posílá originál dopisu od – Jen okamžik,“ řekl neklidně a vstal od stolu. „Já se jen podívám do pracovny. Asi jsem to nechal na stole.“ A pryč byl.
@@ -100,3 +102,5 @@ Ministr kroutil rozpačitě hlavou; v té přihrádce byla kompletní a úctyhod
 „Vidíš, Boženko,“ divil se pan ministr, „já bych byl přísahal, že jsem z pracovny neudělal ani krok; ale teprve teď si tak nejasně vzpomínám, že když jsem si přečetl ten dopis, řekl jsem si: To se musím podívat na jeden zákon z roku třiadvacet. Pak jsem si asi donesl na psací stůl tu knihu a chtěl jsem si napsat poznámku; ale protože se mně ten svazek pořád zavíral, položil jsem tam podle všeho ten dopis – a pak jsem nejspíš knihu sklapl a mechanicky ji odnesl na místo – Ale že jsem se do té knihy šel podvědomě, ze sna podívat, to je, hm; víš, neříkej o tom nikomu. Lidé by si třeba mysleli – Ono to nedělá slušný dojem, tyhlety záhadné psychologické úkazy.“
 
 Za chvíli pak už pan ministr hlaholně telefonoval ministrovi vnitra: „Haló, pane kolego, tak ten ztracený dopis – Ale kdepak, nejste na stopě; já už jej mám v rukou!… Cože, jak se našel? Pane kolego, to vám neřeknu. Víte, jsou metody, které vy v ministerstvu vnitra ještě neznáte. – Ale já vím, vaši lidé dělali, co dovedou; za to oni nemohou, že nejsou na výši… Ne, nebudeme raději o tom mluvit. – Prosím, prosím… Servus, pane kolego!“
+
+</section>

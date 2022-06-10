@@ -3,6 +3,8 @@ title: Kupon
 contentType: prose
 ---
 
+<section>
+
 Toho horkého srpnového večera bylo na Střeleckém ostrově plno lidí; a tak Mince a Pepovi nezbylo, než aby si sedli ke stolu, kde už seděl nějaký pán s tlustým a smutným knírem. „S dovolením,“ řekl Pepa a ten pán jenom tak pokývl. (Ten protiva, řekla si Minka, zrovna u našeho stolu musí sedět!) První věc tedy byla, že si Minka s gestem vévodkyně sedla na židli, kterou jí Pepa utřel kapesníkem; druhá, bezprostředně následující, byla ta, že honem vytáhla pudřenku a pudrovala si nos, aby se jí proboha v tom horku snad trochu neleskl; a přitom, jak tu pudřenku vyjímala, vypadl jí z taštičky zmuchlaný lístek. Tu se ten pán s knírem shýbl a zvedl ten maličký lístek. „Schovejte si to, slečno,“ řekl zasmušile.
 
 Minka se začervenala, předně proto, že ji oslovil cizí pán, a za druhé proto, že ji mrzelo, že se začervenala. „Děkuju,“ řekla a obrátila se honem k Pepovi. „Víš, to je ten kupon z obchodu, co jsem si kupovala punčochy.“
@@ -78,3 +80,5 @@ Minka se zachvěla. „Pepo,“ vydechla, „to je strašné!“
 „Teď už ne,“ pravil pan Souček od policie vážně. „Ale víte, strašné bylo, když jsme tam nad ní stáli v tom poli a nenašli jsme nic než ten kupon a ten lísteček z tramvaje. Takové dva nicotné, bezvýznamné papírky – a přece jsme chudáka Mařku pomstili. Já říkám, nic, nic nemá člověk zahodit; i ta nejzbytečnější věc může být stopa nebo svědectví. Pane, člověk ani neví, co má v kapse důležitého.“
 
 Minka se ustrnule dívala očima plnýma slz; a hle, teď je v horoucí oddanosti obrací k svému Pepovi a nechává z vlhké dlaně vypadnout na zem zmačkaný kuponek, který po celou tu dobu nervózně žmolila. Pepa to neviděl, protože koukal po hvězdičkách; ale pan Souček od policie to viděl a usmál se smutně a chápavě.
+
+</section>

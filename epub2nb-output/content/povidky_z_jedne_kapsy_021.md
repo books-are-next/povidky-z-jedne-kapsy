@@ -3,6 +3,8 @@ title: Šlépěje[9]
 contentType: prose
 ---
 
+<section>
+
 Pan Rybka se té noci ubíral domů ve zvláště dobré míře, předně proto, že vyhrál svou partii šachu (to byl pěkný mat koněm, liboval si cestou), a za druhé proto, že napadal čerstvý sníh a měkce mu chrupal pod nohama v tom pěkném a čistém tichu. Bože, to je krása, mínil pan Rybka; město pod sněhem, to je najednou docela malé město, takové starosvětské městečko – člověk by skoro věřil v ponocné a v dostavníky; to je zvláštní, jak sníh vypadá starodávně a venkovsky.
 
 Křup, křup, pan Rybka si hledal nepošlapanou cestičku, jen pro tu radost, že to tak křupe; a protože bydlel v tiché zahradní uličce, ubývalo těch šlépějí, čím dál šel. Heleme, tady u těch vrátek ubyly mužské boty a ženské střevíčky; nejspíš manželé – jsou-li pak mladí? řekl si pan Rybka měkce, jako by jim chtěl požehnat. Tadyhle přeběhla kočka a nechala ve sněhu své ťapky, podobné kvítkům; dobrou noc, číčo, budou tě studit nožičky. A teď už je tu pouze jeden řádek šlépějí, mužských a hlubokých, rovný a jasný řetízek kroků, jejž rozvíjel osamělý chodec. Kterýpak soused tudy šel? řekl si pan Rybka s přátelským zájmem; tady chodí tak málo lidí, ani jedna kolej není ve sněhu, jsme tu na okraji života; až dojdu domů, ulička si přitáhne bílou duchnu až k nosu a bude se jí zdát, že je jenom hračka pro děti. Škoda, že ráno nám to tu pošlape babka s novinami; ta nadělá šlápoty křížem krážem, jako zajíc –
@@ -98,3 +100,5 @@ Strážník Mimra zasalutoval. „Celkem nic, pane komisaři,“ hlásil. „Tam
 Pan Rybka se ještě jednou ohlédl po těch šlépějích, jež vedly do neznáma. Ale tam, kde byla poslední šlépěj, byly teď dva důkladné otisky služebních bot strážníka Mimry; a odtud pokračovaly ty široké šlápoty pravidelnou a jasnou řádkou dál.
 
 „Zaplaťpánbůh,“ oddychl si pan Rybka a šel spat.
+
+</section>

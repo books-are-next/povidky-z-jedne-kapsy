@@ -3,6 +3,8 @@ title: Zmizení herce Bendy
 contentType: prose
 ---
 
+<section>
+
 Druhého září zmizel herec Benda, mistr Jan Benda, jak se mu říkalo od té doby, co jediným rozběhem vystoupil na jednu z nejvyšších příčlí herecké slávy. Totiž druhého září se nestalo docela nic; posluhovačka, která v devět hodin ráno přišla poklidit Bendův byt, našla zválenou postel a celý ten kančí nepořádek, který obyčejně Bendu obklopoval, jenom pan mistr nebyl doma; ale jelikož na tom nebylo nic neobvyklého, dala byt svým sumárním způsobem do pořádku a šla zase po svém. Dobrá. Ale od té doby nebylo po herci Bendovi ani památky.
 
 Paní Marešová (totiž ta posluhovačka) se nepodivila příliš ani tomu; prosím vás, tihle herci, to vám je jako cikáni; kdopak ví, kam zas jel hrát nebo flámovat. Ale desátého září se strhla po herci Bendovi sháňka; měl přijít do divadla, kde se začínaly zkoušky na Krále Leara; když Benda nepřišel ani na třetí zkoušku, vzbudilo to přece jen nepokoj a z divadla telefonovali doktoru Goldbergovi, Bendovu příteli, neví-li, co se děje s Bendou.
@@ -156,3 +158,5 @@ Muž ve stínu se dal do tichého smíchu. „Poslouchejte, člověče,“ řekl
 „Vyhrožovat, ne?“ hodil muž v lenošce a sahal po elektrickém zvonku.
 
 „Ne, ale strašit. Pane, vy jistě nemáte tuze citlivé svědomí, na to jste příliš bohatý. Ale to, že někdo jiný zná tu celou hrůzu, že někdo ví, že jste vrah, že váš bratr je vrah, že jste zavraždili herce Bendu, syna brusičova, komedianta, vy dva fabrikanti, pane, to do smrti poruší vaši velkopanskou rovnováhu. Pokud budu živ, vy dva nebudete mít pokoj. Pane, já bych vás chtěl vidět na šibenici; ale aspoň pokud budu živ, vás budu otravovat… Benda byl zlé zvíře; pane, já vím nejlíp, jak byl zlý, nadutý, cynický, nestoudný a co chcete; ale byl umělec. Všecky vaše miliony nevydají za toho opilého komedianta; se všemi svými miliony nesvedete ten královský pokyn ruky – tu vylhanou, a přece úžasnou velikost člověka –“ Doktor Goldberg spráskl zoufale ruce. „Jak jste to mohl udělat? Pane, vy nikdy nebudete mít pokoj, já vás nenechám zapomenout! Do smrti vám budu připomínat: Pamatujete se na herce Bendu? Pane, to byl umělec, slyšíte?“
+
+</section>

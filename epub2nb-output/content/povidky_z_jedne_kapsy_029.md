@@ -3,6 +3,8 @@ title: Zločin na poště
 contentType: prose
 ---
 
+<section>
+
 „Pane, Spravedlnost,“ řekl četnický strážmistr Brejcha. „To bych rád věděl, proč to je na obrazech taková ženská s kšandou na očích a s vážkami, jako by prodávala pepř. Já bych mínil, že Spravedlnost vypadá jako četník. To byste nevěřil, co věcí my četníci rozsoudíme bez soudce, bez vážek a bez takových cavyků. V menších případech dáme po hubě a ve větších případech si odepneme řemen; to je v devadesáti případech ze sta celá spravedlnost. A já vám povím, pane, že tuhle jsem já sám usvědčil dva lidi z vraždy a sám jsem je odsoudil k spravedlivému trestu a trest jsem vykonal, a nikomu jsem o tom nehlásil ani slovo. Tak počkejte, vám to teda řeknu.
 
 No jo, vy se pamatujete, pane, na tu slečinku, co tady v obci byla přede dvěma lety na poště. No právě, Helenka se jmenovala. Taková hodná a milá holka, hezká jako obrázek. Bodejť byste se na ni nepamatoval. Tak ta Helenka, pane, se loni v létě utopila; skočila do rybníka a šla asi padesát metrů, než přišla do hloubky. Teprve za dva dny vyplavala. A víte, proč to udělala? V ten den, kdy se utopila, přišla najednou z Prahy revize na poštu a našla, že Helence chybí v kase dvě stovky. Mizerné dvě stovky, pane. Trouba revizor teda řekl, že to musí hlásit dál a že se to bude vyšetřovat jako zpronevěra. Ten večer, pane, se Helenka z hanby utopila.
@@ -108,3 +110,5 @@ Tak můžete jít, skončil hrabě, a bylo to. Za chvíli jsem viděl, jak odvá
 Tak to je všechno. Až půjdete na poštu, všimněte si tam té bledé slečny. Je zlá, zlá na všechny a dostává takové zlé a staré vrásky. Já nevím, sejde-li se někdy s tím svým adjunktem; snad za ním někdy jede, ale pak se vrací zlejší a palčivější. A já se na ni dívám a říkám si: Spravedlnost musí bejt.
 
 Já jsem jen četník, pane, ale tohle vám povím podle své zkušenosti: Je-li nějaký vševědoucí a všemohoucí Bůh, to já nevím; a kdyby byl, tak nám to není nic platno; ale já vám řeknu, musí bejt Někdo nejvýš spravedlivý. To zas jo, pane. My můžeme jenom trestat; ale musí bejt někdo, kdo by odpouštěl. Já vám řeknu, ta pravá a nejvyšší spravedlnost je něco tak divnýho jako láska.
+
+</section>

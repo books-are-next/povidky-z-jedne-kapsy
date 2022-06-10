@@ -3,6 +3,8 @@ title: Vražedný útok
 contentType: prose
 ---
 
+<section>
+
 Pan rada Tomsa si toho večera zrovna lebedil se sluchátky na uších a s libým úsměvem poslouchal, jak mu rádio pěkně hraje Dvořákovy tance – to přece je muzika, říkal si spokojeně –, když to najednou venku dvakrát zatřesklo a z okna nad jeho hlavou se s řinkotem sypalo sklo; pan Tomsa totiž seděl v přízemním pokoji.
 
 Tu tedy udělal, co by asi udělal každý z nás: nejdřív okamžik čekal, co bude dál, pak si sundal sluchátka a skoro přísně zkoumal, co to bylo, a teprve potom se lekl; neboť viděl, že mu někdo na dvou místech prostřelil okno, u kterého seděl; tamhle naproti ve dveřích je odštípnutá tříska a pod ní vězí kulka. První impuls byl, aby vyběhl na ulici a holýma rukama popadl toho darebáka za límec; ale když už je člověk v letech a požívá jisté důstojnosti, promešká obyčejně ten první impuls a rozhodne se pro druhý; proto pan Tomsa běžel k telefonu a zavolal si policejní komisařství: „Haló, pošlete mi sem honem někoho; právě byl na mne spáchán vražedný útok.“
@@ -58,3 +60,5 @@ Pan rada už nevydržel v posteli; sedl si k svému rádiu a navlékl si sluchá
 Ráno se zastavil na komisařství; byl trochu bledý a rozpačitý. „Tak co,“ ptal se ho policejní inspektor, „vzpomněl jste si na někoho, kdo vás třeba nenávidí?“
 
 Pan rada potřásl hlavou. „Já nevím,“ řekl nejistě. „Totiž těch, kteří by mne mohli nenávidět, je tolik, že…“ A mávl bezradně rukou. „Poslouchejte, člověk ani neví, kolika lidem ublížil. To víte, u toho okna už sedat nebudu. Já jsem vás přišel poprosit, abyste tu věc nechali plavat.“
+
+</section>

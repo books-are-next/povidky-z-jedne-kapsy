@@ -3,6 +3,8 @@ title: Poznámky pod čarou
 contentType: prose
 ---
 
+<section>
+
 [\[1\]](./resources/undefined) Votant (lat.) – přísedící. _Pozn. red_.
 
 [\[2\]](./resources/undefined) Desperace (lat.) – zoufalství, beznaděj. _Pozn. red._
@@ -36,3 +38,5 @@ contentType: prose
 [\[16\]](./resources/undefined) Ex offo (lat.) – obhájce přidělený soudem. _Pozn. red._
 
 [\[17\]](./resources/undefined) Konfuze (lat.) – zmatek. _Pozn. red._
+
+</section>

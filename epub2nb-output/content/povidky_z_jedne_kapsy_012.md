@@ -3,6 +3,8 @@ title: Experiment profesora Rousse
 contentType: prose
 ---
 
+<section>
+
 Přítomni byli zvláště: ministr vnitra, ministr spravedlnosti, policejní prezident, řada poslanců, několik vysokých úředníků, vynikající právníci, přední učenci a ovšem i zástupci tisku; neboť ti musejí být při všem.
 
 „Pánové,“ začal profesor harvardské univerzity C. G. Rouss, náš proslulý americký krajan, „experiment, který já vám budu ukázat, spočívá na starších prácech velké řady mých učených kolegů a spolupracovníků; indeed, na celé věci není už nic nového a eh, really, je to… Je to stará vesta,“ vyhrkl radostně, vzpomenuv si na to pravé slovo. „Jenom ta method užití a eh, a praktická upotřebitelnost některých teoretických experiences byla obžektem mé práce. Já prosím nejvíc pány kriminalisty, aby oni věc posoudili podle své practice. Well.
@@ -238,3 +240,5 @@ C. G. Rouss se zadrbal na hlavě. „Never heard that. Tak znovu, prosím. Já b
 \* \* \*
 
 „Koukejme,“ zvolal večer v redakci pan Vašátko, prohlížeje redakční papíry, „tak policie hlásí, že našla mrtvolu toho Josefa Čepelky; byl zakopán u plotu na zahradě toho Suchánka, a pod ním našli zakrvácený pytel. Vidíte, on to ten Rouss přece jen dobře uhodl! To byste, pane kolego, nevěřil: já jsem mu neřekl ani slova o novinách, a on úplně přesně poznal, že jsem novinář. Pánové, řekl, máte před sebou zasloužilého, vynikajícího žurnalistu – – Však jsem napsal v referátě o jeho přednášce: Vývody našeho proslulého krajana byly přijaty s lichotivým uznáním našich odborných kruhů. Počkejte, to bych měl stylisticky upravit: Zajímavé vývody našeho proslulého krajana byly po zásluze přijaty s živým a lichotivým uznáním našich odborných kruhů. Tak to má byt.“
+
+</section>

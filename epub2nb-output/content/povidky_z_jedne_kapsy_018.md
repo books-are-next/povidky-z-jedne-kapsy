@@ -3,6 +3,8 @@ title: Pád rodu Votických
 contentType: prose
 ---
 
+<section>
+
 Jednoho dne přišel do kanceláře policejního úředníka dr. Mejzlíka takový pomenší člověk se zlatými brejlemi a ustaranou tváří. „Archivář Divíšek,“ zamumlal. „Pane doktore, já k vám jdu na poradu… jako k vynikajícímu kriminalistovi; mně totiž řekli, že vy račte být… jaksi… zvláště pokud jde o složitější případy – Totiž to je neobyčejně záhadný případ,“ prohlásil důtklivě.
 
 „Jenom řekněte, oč jde,“ pravil dr. Mejzlík, bera do ruky tužku a poznámkový blok.
@@ -156,3 +158,5 @@ Doktoru Mejzlíkovi zrudly uši od přemýšlení. „Okamžik,“ řekl a vysko
 Po čase opravdu dostal dr. Mejzlík mohutný svazek Dějin vlády krále Jiříka z Poděbrad s vřelým věnováním archiváře Divíška. Pročetl celou knihu od A až do Z, neboť – přiznejme to – byl velmi hrd, že má podíl na vědeckém díle; ale nenašel nikde nic, až teprve na stránce 471 v bibliografických poznámkách četl toto:
 
 Šebek Jaroslav, Regesta XIV. a XV. století, str. 213, dopis pana Ladislava Pcháče z Olešné panu Janu Boršovskému z Čerčan. Zajímavá, vědecky dosud nezpracovaná poznámka o Ješku Skalickém ze Skalice zasluhuje zvláštní pozornosti.
+
+</section>

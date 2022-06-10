@@ -3,6 +3,8 @@ title: Naprostý důkaz
 contentType: prose
 ---
 
+<section>
+
 „Víš, Toníku,“ povídal vyšetřující soudce Mates svému nejbližšímu příteli, „to je věc zkušenosti; já nevěřím žádným výmluvám, žádnému alibi a žádnému povídání; já nevěřím obviněnému ani svědkům. Člověk lže, i když ani nechce; tak třeba takový svědek ti přísahá, že proti obviněnému nechová žádné nepřátelství, a přitom sám neví, že ho v hloubi duše, víš, v podvědomí nenávidí z nějaké té potlačené nenávisti nebo žárlivosti. Všecko, co ti vypovídá obviněný, je předem vymyšlené a narafičené; všecko, co ti vypovídá svědek, se může řídit vědomým nebo i nevědomým úmyslem obviněnému pomáhat nebo přitížit. Holenku, to já znám: člověk je naskrz prolhaná potvora.
 
 Čemu tedy věřím? Náhodě, Toníku; takovým těm mimovolným, bezděčným, nebo jakpak bych to řekl, nekontrolovaným hnutím nebo činům nebo slovům, které člověku tu a tam uklouznou. Všecko se dá falšovat nebo nastrojit, všecko je přetvářka nebo nějaký záměr, jenom náhoda ne; to se pozná na první pohled. Já ti mám tuhle metodu: sedím a nechám lidi brebentit, co si předem vymyslili a nachystali; dělám, jako bych jim věřil, ještě jim pomáhám, aby jim huba líp jela, a číhám, až z nich vyletí nějaké to bezděčné, nechtěné slovíčko; víš, na to musí být člověk psycholog. Některý vyšetřující soudce má taktiku obviněného splést; proto mu pořád skáče do řeči a zmate ho tak, že se mu ten janek nakonec přizná třeba i k tomu, že zavraždil císařovnu Alžbětu. Já chci naprostou jistotu; proto pomaloučku, trpělivě čekám, až mně z toho soustavného lhaní a vytáčení, kterému se odborně říká výpověď, blýskne mimovolný kousek pravdy. Víš, čistá pravda se v tomhle slzavém údolí vyskytne jenom z nedopatření: jen když se lidský tvor nějak podřekne nebo přehmátne.
@@ -51,3 +53,5 @@ Přibližně v téže době řekl mladý muž, zde nazývaný Arturem, paní Mar
 „Pomohlo,“ řekla paní Marta a zamyslila se. „Víš, hochu, já se ti až stydím, že mně on, Franci, teď tak hrozně věří. On je na mne od té doby tak hodný… Ten dopis ti pořád nosí na srdci.“ Paní Marta se zachvěla. „Je to vlastně strašné, že… že ho tak klamu, nemyslíš?“
 
 Ale pan Artur to nemyslil; aspoň tvrdil, že rozhodně ne.
+
+</section>
