@@ -3,6 +3,8 @@ title: Básník
 contentType: prose
 ---
 
+<section>
+
 Byla to běžná policejní událost: ve čtyři hodiny ráno přejelo auto v Žitné ulici opilou stařenu a v největší rychlosti ujelo. A teď měl mladý policejní koncipient dr. Mejzlík vyšetřit, které auto to bylo. Takový mladý koncipient to bere vážně.
 
 „Hm,“ řekl dr. Mejzlík strážníkovi číslo 141, „tak vy jste viděl ze vzdálenosti tří set kroků rychle jedoucí auto a na zemi lidské tělo. Co jste nejdřív udělal?“
@@ -178,3 +180,5 @@ Za dva dny navštívil dr. Mejzlík básníka; básník tentokrát nespal, nýbr
 „Aha, už vím,“ děl poeta. „Tak vidíte, to máte tu vnitřní skutečnost. Chcete, abych vám přečetl pár jiných básní? Teď už jim budete rozumět.“
 
 „Až jindy,“ řekl honem policejní úředník. „Až zase budu mít nějaký případ.“
+
+</section>

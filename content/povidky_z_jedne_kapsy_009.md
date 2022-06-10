@@ -3,6 +3,8 @@ title: Jasnovidec
 contentType: prose
 ---
 
+<section>
+
 „Víte, pane státní,“ kázal pan Janowitz, „mne tak lehko někdo nenapálí, nejsem přece nadarmo žid, no ne? Ale co dělá ten chlap, to je prostě nad můj rozum. To není jen tak grafologie, to je já nevím co. Tak si to vemte: Dáte mu něčí rukopis v nezalepené obálce; on se na to písmo ani nepodívá, jen strčí prsty do kuvéru a šátrá jimi po tom písmu; přitom takhle křiví hubu, jako by ho něco bolelo. A za chvíli vám začne povídat povahu toho pisatele, ale tak vám – no, to byste mrkal. Navlas vám toho člověka trefí. Já mu dal do té obálky jeden dopis od starého Weinberga; všecko poznal, i to, že má cukrovku a že má udělat bankrot. Co tomu říkáte?“
 
 „Nic,“ děl suše pan státní zástupce. „Možná, že starého Weinberga zná.“
@@ -92,3 +94,5 @@ Najednou se zastavil. To se rozumí, řekl si, vždyť to, co ten jasnovidec ř�
 „Jemu,“ děl pan votant, „to dělá radost, když se ho lidé bojí.“
 
 „Trochu samolibý, to on je,“ řekl zamyšleně ctihodný předseda. „Ale má úžasnou vůli … hlavně k úspěchu. Veliká síla, pane kolego, ale –“ Pana předsedu nenapadlo vhodné slovo. „Nu, pojďme se navečeřet.“
+
+</section>

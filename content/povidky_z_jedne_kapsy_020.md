@@ -3,6 +3,8 @@ title: Případ Selvinův
 contentType: prose
 ---
 
+<section>
+
 „Hm, můj největší úspěch, totiž úspěch, který mně udělal největší radost –,“ vzpomínal starý mistr Leonard Unden, veliký básník, laureát Nobelovy ceny a tak dále. „Mladí přátelé, v mém věku už člověk nedá na ty vavříny, ovace, milenky a jiné takové nesmysly, jmenovitě když už jsou dávno tytam. Pokud je člověk mlád, těší se ze všeho, a byl by osel, kdyby to nedělal; jenže dokud je mlád, nemá na to, aby se z něčeho těšil. Vlastně by měl život postupovat obráceně; nejdřív by měl být člověk stár a dělat plnou a záslužnou práci, protože se k jinému nehodí; teprve nakonec by měl dospět mladosti, aby užíval plodů svého dlouhého života. Tak vidíte starce, už se zapovídal. O čem jsem to chtěl mluvit? Aha, co byl můj největší úspěch. Poslouchejte, to nebylo žádné z mých dramat a žádná z mých knížek – ačkoliv byl čas, kdy se mé knížky opravdu četly; můj největší úspěch byl případ Selvinův.
 
 Nu ovšem, vy už ani dobře nevíte, oč šlo; vždyť už je tomu dvacet šest, nebo ne, dvacet devět let. Tedy je tomu dvacet devět let, co jednoho božího dne ke mně přišla taková bělovlasá, droboučká paní v černých šatech; a dříve než jsem se jí mohl se svou tehdy velmi oceňovanou přívětivostí zeptat, co vlastně chce, bums, klečela přede mnou na zemi a dala se do pláče; já nevím, já vám nemohu vidět ženskou plakat.
@@ -56,3 +58,5 @@ Podruhé přišel výhrůžněji. Já prý jsem si na jeho případu pomohl; pr�
 Od té doby se u mne objevoval spíše v kratších přestávkách; sedl si na sofa a vzdychal, že trpí výčitkami svědomí za to, že tu babu odkrouhnul. Já se jdu udat, mistře, říkal zasmušile, ale pro vás to bude světová ostuda. Tak já nevím, jak bych došel klidu. – Poslouchejte, tyhle výčitky svědomí musejí být strašlivá věc, mám-li soudit podle toho, co jsem se tomu chlapovi naplatil, aby je mohl dále snášet. Nakonec jsem mu koupil lístek do Ameriky; došel-li tam klidu, to nevím.
 
 Tak to byl ten největší úspěch mého života; mladí přátelé, až budete psát nekrolog na Leonarda Undena, napište, že Selvinovým případem se vryl zlatým písmem a tak dále; buď mu věčný dík.“
+
+</section>

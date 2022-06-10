@@ -3,6 +3,8 @@ title: Zločin v chalupě
 contentType: prose
 ---
 
+<section>
+
 „Vstaňte, obžalovaný,“ pravil předseda soudu. „Tedy žaloba vás viní, že jste zavraždil svého tchána Františka Lebedu; při vyšetřování jste doznal, že jste ho třikrát uhodil sekerou do hlavy v úmyslu zabít ho. Tak co, cítíte se vinen?“
 
 Zedřený mužík se zachvěl a něco polkl. „Ne,“ vypravil ze sebe.
@@ -134,3 +136,5 @@ Zatímco se porota odebrala k poradě o vině obžalovaného Vondráčka, brejli
 „Celkem to bylo slabé,“ bručel votant. „Ani státní zástupce se do toho jaksi nehnal, ani obhájce toho mnoho neřek… Zkrátka, vyložený případ, jaképak řeči.“
 
 Předseda soudu zafuněl. „Vyložený případ,“ řekl a mávl rukou. „Poslouchejte, pane kolego, ten člověk se cítí tak v právu jako vy nebo já. Mně to připadá, jako bych měl soudit řezníka za to, že porazil krávu, nebo krtka za to, že dělá krtiny. Člověče, mně chvílemi bylo, že to vůbec není naše věc, rozumíte, otázka práva nebo zákona – Fuj,“ oddechl si a svlékal talár. „Musím si od toho chvilku odpočinout. Víte, já myslím, že ho porota pustí; je to nesmyslné, ale snad ho pustí, protože… Já vám něco řeknu: já jsem selské krve; a když ten člověk říkal, že ta pole chtějí k sobě, tak… já viděl dva pruhy polí, a cítil jsem, kdybychom měli soudit… rozumíte, po nějakém božím zákonu… že bychom musili soudit ta dvě pole. Víte, co bych byl nejraději udělal? Nejraději bych byl vstal, smekl baret a řekl: Obžalovaný Vondráčku, ve jménu božím, protože krev prolitá volá do nebe, oseješ ta dvě pole blínem; blínem a hložím; a do smrti budeš mít před očima ten úhor nenávisti… Rád bych věděl, co by tak tomu řekl státní zástupce. Pane kolego, někdy by měl soudit Bůh; víte, on by mohl uvalit takové strašné a veliké tresty – Soudit ve jménu božím; ale na to my jsme krátcí. – Co, už se porota dohodla?“ Vzdychaje nechutí, oblékal si předseda soudu talár. „Tak pojďme! Uveďte porotu!“
+
+</section>

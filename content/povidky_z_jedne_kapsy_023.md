@@ -3,6 +3,8 @@ title: Oplatkův konec
 contentType: prose
 ---
 
+<section>
+
 K třetí hodině ráno shledal civilní strážník Krejčík, že v pekařském krámu v Neklanově ulici, čp. 17, je napolo vyzdvižen závěs. Zazvonil tedy na domovníka, a třebaže neměl službu, nahlédl pod závěs, není-li snad někdo v krámě. V tom okamžiku vyrazil z krámu člověk, na půl kroku střelil Krejčíka do břicha a dal se na útěk.
 
 Strážník Bartoš, který v tu dobu podle předpisu patroloval v Jeronýmově ulici, slyšel výstřel a rozběhl se tím směrem. Na rohu Neklanovy ulice div nevrazil do běžícího člověka; ale dříve než mohl říci „Stůj!“, třeskla rána a strážník Bartoš se zhroutil střelen do života.
@@ -46,3 +48,5 @@ Nějak rozpačitě trousil se muž za mužem k tomu drobnému, jakoby skrčeném
 Na dvě stě mužů se rozcházelo všemi směry; ani na sebe nemluvili, jen bručeli na špatné cesty a rozmrzele říkali na vzrušené dotazy, no jo, je po ňom, a dejte nám už pokoj! Četník, který zůstal na stráži nad tím zakrytým tělem, se utrhoval vztekle na venkovské čumily: „Co vy tu chcete? Tady nemáte co koukat! To není pro vás!“
 
 Na hranicích okresu si odplivl sázavský četník Rousek: „Fuj loty! Člověče, já ti řeknu, raději bych se neviděl. Hergot, kdybych tak na toho Oplatku mohl být sám, chlap proti chlapovi!“
+
+</section>

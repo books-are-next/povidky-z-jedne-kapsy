@@ -3,6 +3,8 @@ title: Život a doba spisovatele Karla Čapka v datech
 contentType: prose
 ---
 
+<section>
+
 **1890**
 
 Narozen 9. ledna v Malých Svatoňovicích. Otec MUDr. Antonín Čapek (1855–1929), matka Božena, rozená Novotná (1866–1924). Sourozenci: Helena (1886–1961), provdaná Koželuhová, ovdověla, od roku 1930 provdaná Palivcová; Josef (1887–1945) ženatý od roku 1919.
@@ -62,3 +64,5 @@ Organizuje pomocnou sociální akci Demokracie dětem.
 **1938**
 
 Podílí se na organizaci světového kongresu Penklubů v Praze. Opakovaně je navrhován na Nobelovu cenu za literaturu. Po mnichovské konferenci (29.–30. 9. 1938) čelí nenávistné kampani, bojuje s českým fašismem a prožívá nejtěžší období svého života. Umírá 25. prosince na zápal plic. Pohřeb na Vyšehradě se koná 29. prosince.
+
+</section>

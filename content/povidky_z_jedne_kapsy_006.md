@@ -3,6 +3,8 @@ title: Případ Dr\. Mejzlíka
 contentType: prose
 ---
 
+<section>
+
 „Poslyšte, pane Dastychu,“ řekl zamyšleně policejní úředník dr. Mejzlík starému kouzelníkovi, „já k vám jdu vlastně na poradu. Já mám tuhle jeden případ, se kterým si nevím rady.“
 
 „Tak ven s tím,“ děl pan Dastych. „Kohopak se ten případ týká?“
@@ -88,3 +90,5 @@ contentType: prose
 „– Pan doktor Mejzlík k telefonu,“ hlásil pan vrchní. „Volá policejní prezidium.“
 
 „Tady to máme,“ zahučel dr. Mejzlík zdrceně; a když se vrátil od telefonu, byl bledý a nervózní. „Platit, pane vrchní,“ křikl podrážděně. „Už to tak je. Našli nějakého cizince zavražděného v hotelu. Hrom aby –“ a odešel. Zdálo se, že tento energický mladý muž má trému.
+
+</section>

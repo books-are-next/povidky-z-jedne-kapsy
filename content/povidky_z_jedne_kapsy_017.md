@@ -3,6 +3,8 @@ title: Případy pana Janíka
 contentType: prose
 ---
 
+<section>
+
 Ten pan Janík není ani dr. Janík z ministerstva, ani ten Janík, co zastřelil statkáře Jirsu, ani ten senzál Janík, o kterém se říká, že udělal sérii tří set dvaceti šesti karambolů, nýbrž pan Janík, šéf firmy Janík a Holeček, velkoobchod s papírem a celulózou; on je to takový slušný a trochu menší pán, co kdysi chodil za slečnou Severovou a pak už se z desperace[\[2\]](./resources/undefined) neoženil; zkrátka takřečený papírník Janík, aby nebylo mýlky.
 
 Tedy ten pan Janík se dostal k těm věcem čirou náhodou, a sice někde na Sázavě, kde býval na letním bytě; to bylo tehdy, když hledali mrtvolu té Růženy Regnerové, co ji zavraždil její ženich Jindřich Bašta, polil nebožku petrolejem, spálil a zahrabal v lese. Bašta byl sice usvědčen, že Růženu zabil, ale její tělo nebo kosti nemohli nalézt; devět dní už chodili četníci po lesích, jak je Bašta vodil a ukazoval jim, tuhle nebo tamhle to bylo, hrabali a kopali, ale nikde nic. Bylo zřejmo, že uštvaný Bašta je svádí ze správné stopy nebo hledí získat čas. Byl to mládenec ze slušné a zámožné rodiny, ten Jindřich Bašta, ale nejspíš mu doktor nějak zmáčkl kleštěmi hlavu, nežli přišel na svět, zkrátka nebylo to s ním jaksi v pořádku; takový zvrhlý a divný člověk to byl. Tedy devět dní vodil četníky po lesích, bledý jako strašidlo, s očima těkajícíma nystagmem[\[3\]](./resources/undefined) hrůzy, trapno se na něho podívat. Četníci se s ním brodili borůvčím a morastem, zuřiví už, div nekousali, a mysleli si, bestie, my tě utaháme tak, že nás tam nakonec přece jen dovedeš! Bašta, stěží se vleka vysílením, klesl kdekoliv na zem a chraptěl: „Tady, tady jsem ji zahrabal!“
@@ -132,3 +134,5 @@ Ani neuplynul týden, když se pan Janík znovu ohlásil. „Tak už jsem tady,�
 „Jděte! A pročpak ne?“
 
 „Považte si,“ triumfoval pan Janík, „pět let mě okrádal můj prokurista, a já jsem na to nepřišel! Já idiot! Nu tak, řekněte sám pane, jaký bych já byl detektiv? Chválabohu! Pět let sedím s takovým taškářem, a nevím o ničem! Tak vidíte, že k ničemu nejsem! A já už měl takový strach! Ježíšmarjá, to jsem rád, že z toho nic nebude! Tak, a teď jsem z toho venku, že? Děkuju mnohokrát!“
+
+</section>

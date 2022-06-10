@@ -3,6 +3,8 @@ title: Tajemství písma
 contentType: prose
 ---
 
+<section>
+
 „Rubnere,“ řekl šéfredaktor, „půjdete se podívat na toho grafologa Jensena, má dnes večer produkci pro zástupce tisku; prý to má být něco epochálního, ten Jensen. Pak o tom napíšete patnáct řádek.“
 
 „Dobrá,“ zabručel Rubner s náležitou služební neochotou.
@@ -96,3 +98,5 @@ Večer nato zapadl Rubner do své obvyklé hospody. „Tady čtu zrovna ve vaši
 „Copak dneska tak brzo?“ bručel pan Plečka.
 
 „Ale to víte,“ pravil pan Rubner měkce, „žena by třeba bručela, že ji nechávám pořád tak samotnou.“
+
+</section>

@@ -3,6 +3,8 @@ title: Věštkyně
 contentType: prose
 ---
 
+<section>
+
 Každý znalec poměrů nahlédne, že tento příběh se nemohl stát u nás ani ve Francii ani v Německu, neboť v těchto zemích, jak známo, soudcové jsou povinni soudit a trestat hříšníky podle litery zákona, a nikoliv podle svého rozšafného rozumu a svědomí. Protože v této historii vystupuje soudce, který vynáší svůj rozsudek nehledě na paragrafy, nýbrž na zdravý lidský rozum, plyne z toho, že se následující událost nemohla stát jinde nežli v Anglii; a sice stala se v Londýně, přesněji řečeno v Kensingtonu; nebo počkejte, bylo to v Bromptonu nebo v Bayswateru, zkrátka tam někde. Ten soudce byl Master Justice Kelley, a ta žena se jmenovala zcela prostě Myersová. Mistress Edith Myersová.
 
 Vězte tedy, že tato jinak úctyhodná dáma vzbudila pozornost policejního komisaře Mac Learyho. „Má drahá,“ řekl pan Mac Leary jednoho večera své ženě, „mně nejde z hlavy ta Mrs Myersová. Rád bych věděl, z čeho ta ženská žije. Považte si, že teď, v únoru, si posílá služku pro chřest. Dále jsem zjistil, že přijímá denně dvanáct až dvacet návštěv, od hokynářky až po vévodkyně. Já vím, drahoušku, vy řeknete, že je to asi kartářka. Dobrá, ale to může být jenom pláštíkem pro něco jiného, řekněme pro kuplířství nebo pro špionáž. Koukejte se, rád bych do toho viděl.“
@@ -94,3 +96,5 @@ Pan Mac Leary vzhlédl velmi kysele. „Totiž… víte, pane Kelley,“ pravil 
 „Jděte,“ podivil se pan sudí, „taková hezká mladá paní!“
 
 „To je právě to,“ bručel pan Mac Leary, „ale on se do ní znenadání zabouchl jeden mladý flákač… takový milionář nebo obchodník z Melbournu… Já jsem jí bránil, ale…“ Pan Mac Leary beznadějně mávl rukou. „Před týdnem spolu odjeli do Austrálie.“
+
+</section>
