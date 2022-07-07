@@ -61,7 +61,7 @@
             "filename": "povidky_z_jedne_kapsy_003.md",
             "xhtml": "povidky_z_jedne_kapsy_003.html",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": [],
@@ -72,7 +72,7 @@
             "filename": "povidky_z_jedne_kapsy_004.md",
             "xhtml": "povidky_z_jedne_kapsy_004.html",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": [],
@@ -402,7 +402,7 @@
             "filename": "povidky_z_jedne_kapsy_034.md",
             "xhtml": "povidky_z_jedne_kapsy_034.html",
             "id": 33,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": true,
             "children": [],
@@ -711,6 +711,6 @@
       "user": "books-are-next",
       "repo": "povidky-z-jedne-kapsy"
     },
-    "generatedAt": 1655979433683
+    "generatedAt": 1657182341707
   }
 }

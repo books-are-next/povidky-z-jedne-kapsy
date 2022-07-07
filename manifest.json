@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-povidky-z-jedne-kapsy-cfaf951",
-  "revision": "cfaf951",
+  "identifier": "capek-povidky-z-jedne-kapsy-edae2d6",
+  "revision": "edae2d6",
   "readingOrder": [
     "promo.html",
     "povidky_z_jedne_kapsy_005.html",
@@ -41,11 +41,11 @@
     "povidky_z_jedne_kapsy_031.html",
     "povidky_z_jedne_kapsy_032.html",
     "povidky_z_jedne_kapsy_033.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:22:14 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979734752
+    "date": "Thu Jul 07 2022 08:37:14 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183034372
   },
   "documents": [
     {
@@ -274,7 +274,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Muž, který se nelíbil",
+          "name": "Muž, který se nelíbil",
           "id": null,
           "children": []
         }
@@ -474,7 +474,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Zločin v chalupě",
+          "name": "Zločin v chalupě",
           "id": null,
           "children": []
         }
@@ -554,7 +554,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Zločin na poště",
+          "name": "Zločin na poště",
           "id": null,
           "children": []
         }
@@ -594,7 +594,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Život a doba spisovatele Karla Čapka v datech",
+          "name": "Život a doba spisovatele Karla Čapka v datech",
           "id": null,
           "children": []
         }
@@ -629,7 +629,7 @@
       "role": "chapter",
       "order": 29,
       "prev": "povidky_z_jedne_kapsy_032.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -642,11 +642,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 135,
-      "chars": 878,
+      "chars": 877,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "povidky_z_jedne_kapsy_033.html",
       "next": null,
@@ -663,8 +663,8 @@
   ],
   "totals": {
     "all": {
-      "words": 47577,
-      "chars": 276633,
+      "words": 47576,
+      "chars": 276637,
       "ideas": 1417
     },
     "chapters": {

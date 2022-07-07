@@ -44,7 +44,7 @@ readingOrder:
   - povidky_z_jedne_kapsy_031.html
   - povidky_z_jedne_kapsy_032.html
   - povidky_z_jedne_kapsy_033.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
