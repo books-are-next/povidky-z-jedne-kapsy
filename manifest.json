@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-povidky-z-jedne-kapsy-dcb52e4",
-  "revision": "dcb52e4",
+  "identifier": "capek-povidky-z-jedne-kapsy-d9e4187",
+  "revision": "d9e4187",
   "readingOrder": [
     "promo.html",
     "povidky_z_jedne_kapsy_005.html",
@@ -44,8 +44,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:05:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188337560
+    "date": "Thu Jul 21 2022 14:34:41 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414081660
   },
   "documents": [
     {
@@ -644,7 +644,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 135,
-      "chars": 877,
+      "chars": 878,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -663,8 +663,8 @@
   ],
   "totals": {
     "all": {
-      "words": 47576,
-      "chars": 276637,
+      "words": 47577,
+      "chars": 276633,
       "ideas": 1417
     },
     "chapters": {
