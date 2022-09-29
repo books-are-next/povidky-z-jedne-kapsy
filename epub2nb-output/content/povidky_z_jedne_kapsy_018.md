@@ -33,7 +33,7 @@ Neškodný, rozhodl se dr. Mejzlík. „Milý pane,“ řekl honem, „já se ob
 
 „Aha,“ řekl dr. Mejzlík. „Tak dál.“
 
-„Nejdřív ten dopis,“ pravil pan archivář. „Já tu jeho text bohužel nemám, ale jenom jedna jeho zmínka se týká našeho případu; on tam totiž pan Ladislav Pcháč píše panu Boršovskému, že jeho, totiž pana Jana strýc, pan Ješek Skalický ze Skalice, toho léta Páně 1465 není čekán na dvoře v Praze, jelikož Jeho Milost královská vlastní rukou panu Ješkovi ,po těch neblahých skutcích na Votici Velenově‘, jak praví korespondent, uložila na dvůr královský nadále nechoditi a prchlivosti své Pánu Bohu želeti a spravedlivosti boží čekati. Tedy rozumíte,“ vykládal pan archivář, „my bychom řekli, že Jeho Milost král pana Ješka konfinoval[\[4\]](./resources/undefined) na jeho zboží a statcích. Pane, není vám něco nápadné?“
+„Nejdřív ten dopis,“ pravil pan archivář. „Já tu jeho text bohužel nemám, ale jenom jedna jeho zmínka se týká našeho případu; on tam totiž pan Ladislav Pcháč píše panu Boršovskému, že jeho, totiž pana Jana strýc, pan Ješek Skalický ze Skalice, toho léta Páně 1465 není čekán na dvoře v Praze, jelikož Jeho Milost královská vlastní rukou panu Ješkovi ,po těch neblahých skutcích na Votici Velenově‘, jak praví korespondent, uložila na dvůr královský nadále nechoditi a prchlivosti své Pánu Bohu želeti a spravedlivosti boží čekati. Tedy rozumíte,“ vykládal pan archivář, „my bychom řekli, že Jeho Milost král pana Ješka konfinoval[^4] na jeho zboží a statcích. Pane, není vám něco nápadné?“
 
 „Zatím ještě ne,“ řekl dr. Mejzlík, kresle přitom na papíře podivuhodnou spirálu.
 
