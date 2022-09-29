@@ -83,7 +83,7 @@ Najednou se zastavil. To se rozumí, řekl si, vždyť to, co ten jasnovidec ř�
 
 „Ježíšikriste!“ bědoval předseda soudu, svlékaje si talár, „už je sedm hodin; to se to zase protáhlo! Když on pan státní mluvil dvě hodiny – ale pane kolego, vyhrál to; na takové slabé indicie dostat provaz, tomu se říká úspěch. Inu, u poroty se nikdy neví. Ale šikovně mluvil,“ děl předseda, umývaje si ruce. „Hlavně jak podával charakteristiku toho Müllera, to byl hotový portrét; víte, ten monstrózní, nelidský charakter toho vraha – člověk se zrovna otřásal. Pamatujete se, pane kolego, jak říkal: Není to obyčejný zločinec; není schopen špinavosti, nelže ani nekrade; ale zavraždí-li člověka, udělá to tak klidně, jako by dával na šachovnici mat. Nevraždí z vášně, ale z chladné rozumové úvahy, jako by řešil úlohu nebo technický problém. Moc dobře řečeno, pane kolego. A dál: Když je na svém lovu, vidí v bližním jenom kořist – Víte, s tím tygrem, to snad bylo trochu teatrální, ale porotcům se to líbilo.“
 
-„Nebo to,“ pravil pan votant[\[1\]](./resources/undefined), „jak říkal: Tenhle vrah si jistě nic nevyčítá; je tak sebejistý, tak bezpečný sám před sebou, – nemusí se bát svého svědomí.“
+„Nebo to,“ pravil pan votant[^1], „jak říkal: Tenhle vrah si jistě nic nevyčítá; je tak sebejistý, tak bezpečný sám před sebou, – nemusí se bát svého svědomí.“
 
 „Nebo zas ten psychologický postřeh,“ pokračoval předseda soudu utíraje si ručníkem ruce, „že je to komediant a pozér, který by chtěl ohromit svět svými činy –“
 

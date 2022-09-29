@@ -57,7 +57,7 @@ Ukažte, povídám Filípkovi a čuchnu k té bedničce. Pane Filípek, říkám
 
 Sotva byl pošťák pryč, řekl mně ten Filípek: Pane vachmajstr, ono to nesmí být, ale tady je dláto. A šel pryč, aby to jako neviděl. Pane, já tu bedničku vypáčil; byla v ní dvě kila hlíny. Tak já jdu za tím Filípkem a říkám mu: Člověče, teda o téhle věci nikomu ani slovo, rozumíte? To já už si spravím sám.
 
-To se rozumí, sebral jsem se a šel jsem za tím adjunktem Houdkem do velkostatku. Seděl tam na kládách a koukal do země. Pane adjunkte, povídám mu, tady je nějaká konfuze[\[17\]](./resources/undefined) na poště; nevzpomínáte si, na jakou adresu jste posílal před deseti nebo dvanácti dny takovou bedničku?
+To se rozumí, sebral jsem se a šel jsem za tím adjunktem Houdkem do velkostatku. Seděl tam na kládách a koukal do země. Pane adjunkte, povídám mu, tady je nějaká konfuze[^17] na poště; nevzpomínáte si, na jakou adresu jste posílal před deseti nebo dvanácti dny takovou bedničku?
 
 Ten Houdek trochu jako zbledl a povídá: Na tom nezáleží; to už sám nevím, komu to bylo.
 
