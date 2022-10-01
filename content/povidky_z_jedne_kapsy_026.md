@@ -160,3 +160,37 @@ Muž ve stínu se dal do tichého smíchu. „Poslouchejte, člověče,“ řekl
 „Ne, ale strašit. Pane, vy jistě nemáte tuze citlivé svědomí, na to jste příliš bohatý. Ale to, že někdo jiný zná tu celou hrůzu, že někdo ví, že jste vrah, že váš bratr je vrah, že jste zavraždili herce Bendu, syna brusičova, komedianta, vy dva fabrikanti, pane, to do smrti poruší vaši velkopanskou rovnováhu. Pokud budu živ, vy dva nebudete mít pokoj. Pane, já bych vás chtěl vidět na šibenici; ale aspoň pokud budu živ, vás budu otravovat… Benda byl zlé zvíře; pane, já vím nejlíp, jak byl zlý, nadutý, cynický, nestoudný a co chcete; ale byl umělec. Všecky vaše miliony nevydají za toho opilého komedianta; se všemi svými miliony nesvedete ten královský pokyn ruky – tu vylhanou, a přece úžasnou velikost člověka –“ Doktor Goldberg spráskl zoufale ruce. „Jak jste to mohl udělat? Pane, vy nikdy nebudete mít pokoj, já vás nenechám zapomenout! Do smrti vám budu připomínat: Pamatujete se na herce Bendu? Pane, to byl umělec, slyšíte?“
 
 </section>
+
+[^1]: Votant (lat.) – přísedící. _Pozn. red_.
+
+[^2]: Desperace (lat.) – zoufalství, beznaděj. _Pozn. red._
+
+[^3]: Nystagmus (řec.) – bezděčné záškuby očí. _Pozn. red._
+
+[^4]: Konfinovat (franc.) – někomu úředně zakázat opustit určité místo. _Pozn. red._
+
+[^5]: Vachmajstr (z něm. Wachtmeister – strážník. _Pozn. red._
+
+[^6]: Materia facti (lat.) – skutečnost. _Pozn. red._
+
+[^7]: Plaidoyer (franc.) – závěrečná řeč. _Pozn. red._
+
+[^8]: Rekurzy (lat.) – odvolání. _Pozn. red._
+
+[^9]: Viz povídka Šlépěj v Božích mukách.
+
+[^10]: Šmízo – nekvalitní zboží, aušus. _Pozn. red._
+
+[^11]: Revertence (lat.) – nedovolený návrat. _Pozn. red._
+
+[^12]: Sardanapalský (podle asyrského krále Aššurbanipala, známého i pod jménem  Sardanapalus) – hýřivý, nespoutaný. _Pozn. red._
+
+[^13]: Ašant = černoch (opálený jako ašant, podle národnosti v Ghaně), také divoch. _Pozn. red._
+
+[^14]: Lues (lat.) – příjice, syfilis. _Pozn. red._
+
+[^15]: Šófl (hebr.) – zašlé, vetché. _Pozn. red._
+
+[^16]: Ex offo (lat.) – obhájce přidělený soudem. _Pozn. red._
+
+[^17]: Konfuze (lat.) – zmatek. _Pozn. red._
