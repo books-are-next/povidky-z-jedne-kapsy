@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-povidky-z-jedne-kapsy-17b8b79",
-  "revision": "17b8b79",
+  "identifier": "capek-povidky-z-jedne-kapsy-94fdaaf",
+  "revision": "94fdaaf",
   "readingOrder": [
     "promo.html",
     "povidky_z_jedne_kapsy_005.html",
@@ -44,8 +44,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:32:56 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664487176520
+    "date": "Sat Oct 01 2022 16:02:36 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664640156077
   },
   "documents": [
     {
@@ -143,9 +143,9 @@
     {
       "title": "Jasnovidec",
       "file": "povidky_z_jedne_kapsy_009.html",
-      "words": 1968,
-      "chars": 11384,
-      "ideas": 46,
+      "words": 1975,
+      "chars": 11421,
+      "ideas": 47,
       "role": "chapter",
       "order": 5,
       "prev": "povidky_z_jedne_kapsy_008.html",
@@ -303,9 +303,9 @@
     {
       "title": "Případy pana Janíka",
       "file": "povidky_z_jedne_kapsy_017.html",
-      "words": 2555,
-      "chars": 14690,
-      "ideas": 66,
+      "words": 2572,
+      "chars": 14792,
+      "ideas": 68,
       "role": "chapter",
       "order": 13,
       "prev": "povidky_z_jedne_kapsy_016.html",
@@ -323,9 +323,9 @@
     {
       "title": "Pád rodu Votických",
       "file": "povidky_z_jedne_kapsy_018.html",
-      "words": 2488,
-      "chars": 15047,
-      "ideas": 78,
+      "words": 2500,
+      "chars": 15123,
+      "ideas": 79,
       "role": "chapter",
       "order": 14,
       "prev": "povidky_z_jedne_kapsy_017.html",
@@ -343,9 +343,9 @@
     {
       "title": "Rekord",
       "file": "povidky_z_jedne_kapsy_019.html",
-      "words": 2160,
-      "chars": 12259,
-      "ideas": 45,
+      "words": 2169,
+      "chars": 12313,
+      "ideas": 46,
       "role": "chapter",
       "order": 15,
       "prev": "povidky_z_jedne_kapsy_018.html",
@@ -363,9 +363,9 @@
     {
       "title": "Případ Selvinův",
       "file": "povidky_z_jedne_kapsy_020.html",
-      "words": 2207,
-      "chars": 12986,
-      "ideas": 28,
+      "words": 2230,
+      "chars": 13114,
+      "ideas": 31,
       "role": "chapter",
       "order": 16,
       "prev": "povidky_z_jedne_kapsy_019.html",
@@ -403,9 +403,9 @@
     {
       "title": "Kupon",
       "file": "povidky_z_jedne_kapsy_022.html",
-      "words": 2579,
-      "chars": 14498,
-      "ideas": 39,
+      "words": 2587,
+      "chars": 14540,
+      "ideas": 40,
       "role": "chapter",
       "order": 18,
       "prev": "povidky_z_jedne_kapsy_021.html",
@@ -443,9 +443,9 @@
     {
       "title": "Poslední soud",
       "file": "povidky_z_jedne_kapsy_024.html",
-      "words": 1262,
-      "chars": 7645,
-      "ideas": 50,
+      "words": 1270,
+      "chars": 7693,
+      "ideas": 51,
       "role": "chapter",
       "order": 20,
       "prev": "povidky_z_jedne_kapsy_023.html",
@@ -483,9 +483,9 @@
     {
       "title": "Zmizení herce Bendy",
       "file": "povidky_z_jedne_kapsy_026.html",
-      "words": 3267,
-      "chars": 19302,
-      "ideas": 78,
+      "words": 3314,
+      "chars": 19587,
+      "ideas": 82,
       "role": "chapter",
       "order": 22,
       "prev": "povidky_z_jedne_kapsy_025.html",
@@ -523,9 +523,9 @@
     {
       "title": "Propuštěný",
       "file": "povidky_z_jedne_kapsy_028.html",
-      "words": 1592,
-      "chars": 9067,
-      "ideas": 31,
+      "words": 1602,
+      "chars": 9119,
+      "ideas": 32,
       "role": "chapter",
       "order": 24,
       "prev": "povidky_z_jedne_kapsy_027.html",
@@ -543,9 +543,9 @@
     {
       "title": "Zločin na poště",
       "file": "povidky_z_jedne_kapsy_029.html",
-      "words": 2225,
-      "chars": 12244,
-      "ideas": 54,
+      "words": 2232,
+      "chars": 12278,
+      "ideas": 55,
       "role": "chapter",
       "order": 25,
       "prev": "povidky_z_jedne_kapsy_028.html",
@@ -623,9 +623,9 @@
     {
       "title": "Poznámky pod čarou",
       "file": "povidky_z_jedne_kapsy_033.html",
-      "words": 158,
-      "chars": 1012,
-      "ideas": 18,
+      "words": 313,
+      "chars": 1913,
+      "ideas": 35,
       "role": "chapter",
       "order": 29,
       "prev": "povidky_z_jedne_kapsy_032.html",
@@ -643,9 +643,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 135,
-      "chars": 878,
-      "ideas": 16,
+      "words": 126,
+      "chars": 835,
+      "ideas": 15,
       "role": "about",
       "order": null,
       "prev": "povidky_z_jedne_kapsy_033.html",
@@ -663,14 +663,14 @@
   ],
   "totals": {
     "all": {
-      "words": 47577,
-      "chars": 276666,
-      "ideas": 1417
+      "words": 47871,
+      "chars": 278382,
+      "ideas": 1449
     },
     "chapters": {
-      "words": 47434,
-      "chars": 275745,
-      "ideas": 1397
+      "words": 47737,
+      "chars": 277504,
+      "ideas": 1430
     }
   }
 }
