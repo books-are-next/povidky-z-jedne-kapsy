@@ -27,7 +27,7 @@ V MKP 2. opravené vydání
 [^15]: Šófl (hebr.) – zašlé, vetché. _Pozn. red._  
 [^16]: Ex offo (lat.) – obhájce přidělený soudem. _Pozn. red._  
 [^17]: Konfuze (lat.) – zmatek. _Pozn. red._  
-V MKP 1. elektronické vydání z 4. 10. 2022.
+V MKP 1. elektronické vydání z 7. 10. 2022.
 
 ***
 
