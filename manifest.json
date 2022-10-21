@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-povidky-z-jedne-kapsy-55648f0",
-  "revision": "55648f0",
+  "identifier": "capek-povidky-z-jedne-kapsy-bee2d7b",
+  "revision": "bee2d7b",
   "readingOrder": [
     "promo.html",
     "povidky_z_jedne_kapsy_005.html",
@@ -44,8 +44,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 15:59:09 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665417549901
+    "date": "Fri Oct 21 2022 11:41:11 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666352471188
   },
   "documents": [
     {
